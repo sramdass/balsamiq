@@ -1,0 +1,137 @@
+<mockup version="1.0" skin="sketch" measuredW="783" measuredH="270" mockupW="655" mockupH="256">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="128" y="14" w="-1" h="-1" measuredW="174" measuredH="26" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <markup>true</markup>
+        <size>18</size>
+        <text>Pagination%20pattern%20%231</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="128" y="69" w="655" h="28" measuredW="655" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>pagination%201</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="0" w="-1" h="-1" measuredW="267" measuredH="28" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <bold>false</bold>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>%3C%3C%20First%2C%20%3C%20Previous%2C%201%2C%202%2C%203</text>
+          </controlProperties>
+        </control>
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="274" y="3" w="12" h="22" measuredW="14" measuredH="20" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <bold>true</bold>
+            <size>12</size>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="26" controlTypeID="com.balsamiq.mockups::ButtonBar" x="297" y="0" w="-1" h="-1" measuredW="358" measuredH="28" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <bold>false</bold>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>5%2C%206%2C7%2C%208%2C%209%2C%2010%2C%20Next%20%3E%2C%20Last%20%3E%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="130" y="146" w="-1" h="-1" measuredW="177" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <markup>true</markup>
+        <size>18</size>
+        <text>Pagination%20pattern%20%232</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="128" y="200" w="586" h="28" measuredW="586" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>pagination%202%20-%201</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="0" w="-1" h="-1" measuredW="193" measuredH="28" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <bold>false</bold>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>%3C%20Previous%2C%201%2C%202%2C%203</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="200" y="3" w="12" h="22" measuredW="14" measuredH="20" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <bold>true</bold>
+            <size>12</size>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::ButtonBar" x="219" y="0" w="-1" h="-1" measuredW="215" measuredH="28" zOrder="2" locked="false" isInGroup="3">
+          <controlProperties>
+            <bold>false</bold>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>5%2C%206%2C7%2C%208%2C%209%2C%2010</text>
+          </controlProperties>
+        </control>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="446" y="3" w="17" h="22" measuredW="15" measuredH="21" zOrder="3" locked="false" isInGroup="3">
+          <controlProperties>
+            <text>...</text>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::ButtonBar" x="467" y="0" w="-1" h="-1" measuredW="119" measuredH="28" zOrder="4" locked="false" isInGroup="3">
+          <controlProperties>
+            <bold>false</bold>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>290%2C%20Next%20%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="__group__" x="128" y="242" w="646" h="28" measuredW="646" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>pagination%202%20-%202</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="27" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="0" w="-1" h="-1" measuredW="158" measuredH="28" zOrder="0" locked="false" isInGroup="4">
+          <controlProperties>
+            <bold>false</bold>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>%3C%20Previous%2C%201%2C%202</text>
+          </controlProperties>
+        </control>
+        <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="165" y="2" w="23" h="22" measuredW="15" measuredH="21" zOrder="1" locked="false" isInGroup="4">
+          <controlProperties>
+            <bold>false</bold>
+            <size>13</size>
+            <text>...</text>
+          </controlProperties>
+        </control>
+        <control controlID="29" controlTypeID="com.balsamiq.mockups::ButtonBar" x="187" y="0" w="-1" h="-1" measuredW="285" measuredH="28" zOrder="2" locked="false" isInGroup="4">
+          <controlProperties>
+            <bold>false</bold>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>174%2C%20175%2C176%2C%20177%2C%20178%2C%20179</text>
+          </controlProperties>
+        </control>
+        <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="494" y="2" w="26" h="22" measuredW="28" measuredH="21" zOrder="3" locked="false" isInGroup="4">
+          <controlProperties>
+            <bold>true</bold>
+            <text>180</text>
+          </controlProperties>
+        </control>
+        <control controlID="31" controlTypeID="com.balsamiq.mockups::ButtonBar" x="527" y="0" w="-1" h="-1" measuredW="119" measuredH="28" zOrder="4" locked="false" isInGroup="4">
+          <controlProperties>
+            <bold>false</bold>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>290%2C%20Next%20%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

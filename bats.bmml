@@ -1,0 +1,135 @@
+<mockup version="1.0" skin="sketch" measuredW="1417" measuredH="854" mockupW="1417" mockupH="850">
+  <controls>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Component" x="2" y="4" w="1415" h="850" measuredW="1415" measuredH="850" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#container</src>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="__group__" x="6" y="8" w="1407" h="70" measuredW="1407" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1407" h="70" measuredW="1407" measuredH="70" zOrder="0" locked="false" isInGroup="55">
+          <controlProperties>
+            <src>./assets/symbols.bmml#main_header</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="78" w="1415" h="728" measuredW="569" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>depts%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%2Ctchrs%26bm%3Btchrs.bmml%26bm%3Btchrs.bmml%26bm%3Btchrs.bmml%2Csubs%26bm%3Bsubs.bmml%26bm%3Bsubs.bmml%26bm%3Bsubs.bmml%2C%2Csec_stus%26bm%3Bsec_stus.bmml%26bm%3Bsec_stus.bmml%26bm%3Bsec_stus.bmml%2Chistory%26bm%3Bhistory.bmml%26bm%3Bhistory.bmml%26bm%3Bhistory.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22896%2C74%2C989%2C100%22%20href%3D%22depts.bmml%22%20alt%3D%22depts%22%20id%3D%2257_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22989%2C74%2C1060%2C100%22%20href%3D%22tchrs.bmml%22%20alt%3D%22tchrs%22%20id%3D%2257_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221060%2C74%2C1125%2C100%22%20href%3D%22subs.bmml%22%20alt%3D%22subs%22%20id%3D%2257_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221187%2C74%2C1318%2C100%22%20href%3D%22sec_stus.bmml%22%20alt%3D%22sec_stus%22%20id%3D%2257_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221318%2C74%2C1371%2C100%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%2257_4%22/%3E%0A</map>
+        <selectedIndex>3</selectedIndex>
+        <size>14</size>
+        <tabHPosition>right</tabHPosition>
+        <text>Departments%2C%20Teachers%2C%20Subjects%2C%20Batches%2C%20Section%20%26%20Students%2C%20History</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Canvas" x="1170" y="103" w="244" h="699" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16776960</color>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="__group__" x="1211" y="150" w="163" h="27" measuredW="163" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="163" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="93">
+          <controlProperties>
+            <color>16777215</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="142" y="4" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="93">
+          <controlProperties>
+            <color>13369344</color>
+            <icon>SearchIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="1211" y="132" w="-1" h="-1" measuredW="67" measuredH="18" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>0</color>
+        <size>11</size>
+        <state>up</state>
+        <text>Batch%20Name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Component" x="1211" y="194" w="145" h="355" measuredW="145" measuredH="355" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#batches_list</src>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::LinkBar" x="727" y="218" w="-1" h="-1" measuredW="291" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2Cbats_sub_wise%26bm%3Bbats_sub_wise.bmml%26bm%3Bbats_sub_wise.bmml%26bm%3Bbats_sub_wise.bmml%2Cbats_sub_wise%26bm%3Bbats_sub_wise.bmml%26bm%3Bbats_sub_wise.bmml%26bm%3Bbats_sub_wise.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22896%2C214%2C970%2C235%22%20href%3D%22bats_sub_wise.bmml%22%20alt%3D%22bats_sub_wise%22%20id%3D%22109_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22990%2C214%2C1018%2C235%22%20href%3D%22bats_sub_wise.bmml%22%20alt%3D%22bats_sub_wise%22%20id%3D%22109_1%22/%3E%0A</map>
+        <selectedIndex>1</selectedIndex>
+        <text>%3C%3C-%2C%20Department-split%2C%20Subject-split%2C%20-%3E%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="__group__" x="36" y="246" w="1080" h="309" measuredW="1080" measuredH="309" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="31" w="1080" h="278" measuredW="737" measuredH="274" zOrder="0" locked="false" isInGroup="111">
+          <controlProperties>
+            <alternateRowColor>15134199</alternateRowColor>
+            <bold>false</bold>
+            <hasHeader>true</hasHeader>
+            <rowHeight>37</rowHeight>
+            <selectedIndex>2</selectedIndex>
+            <size>12</size>
+            <text>Department%2C%20Unit%20Tests%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20%20%20Avg%2C%20CIA%20Tests%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20%20%20Avg%20%20%20%20%2C%20Model%20Exams%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20%20%20Avg%2C%20Internal%20%5CrMarks%25%0AComputer%20Science%5Crand%20Engineering%2C%2078%20%20%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2076%2C%2018%0AInformation%5CrTechnology%2C%2078%20%20%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2076%2C%2018%0ACivil%20Engineering%2C%2078%20%20%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2076%2C%2018%0AMechanical%5CrEngineering%2C%2078%20%20%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2076%2C%2018%0AElectrical%5CrEngineering%2C%2078%20%20%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2076%2C%2018%0AElectrical%20and%20%5CrElectronics%20Engg.%2C%2078%20%20%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2076%2C%2018%0A%7B0L%2C0C%2C0C%2C0C%2C0C%7D</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="129" measuredH="24" zOrder="1" locked="false" isInGroup="111">
+          <controlProperties>
+            <align>left</align>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Department%20Split</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="112" controlTypeID="__group__" x="36" y="612" w="1080" h="168" measuredW="1080" measuredH="168" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="235" h="-1" measuredW="235" measuredH="24" zOrder="0" locked="false" isInGroup="112">
+          <controlProperties>
+            <align>left</align>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Section%20Split%20%28Civil%20Engineering%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="33" w="1080" h="135" measuredW="698" measuredH="134" zOrder="1" locked="false" isInGroup="112">
+          <controlProperties>
+            <alternateRowColor>15134199</alternateRowColor>
+            <bold>false</bold>
+            <hasHeader>true</hasHeader>
+            <rowHeight>41</rowHeight>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>Section%2C%20Unit%20Tests%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20%20%20Avg%2C%20CIA%20Tests%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20%20%20Avg%20%20%20%20%2C%20Model%20Exams%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20%20%20Avg%2C%20Internal%20%5CrMarks%25%0ASection%20-%20A%2C%2078%20%20%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2076%2C%2018%0ASection%20-%20B%2C%2078%20%20%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%20%20%2076%2C%2018%0A%7B0L%2C0C%2C0C%2C0C%2C0C%7D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Title" x="512" y="136" w="-1" h="-1" measuredW="142" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <size>20</size>
+        <text>2009-13%20Batch</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Title" x="502" y="164" w="-1" h="-1" measuredW="163" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <size>14</size>
+        <text>Aug%2710%20Semester%20Results</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

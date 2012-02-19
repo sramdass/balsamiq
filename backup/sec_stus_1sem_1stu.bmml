@@ -1,0 +1,236 @@
+<mockup version="1.0" skin="sketch" measuredW="1535" measuredH="854" mockupW="1535" mockupH="850">
+  <controls>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="78" w="1533" h="776" measuredW="578" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>clg_1sem%26bm%3Bclg_1sem.bmml%26bm%3Bclg_1sem.bmml%26bm%3Bclg_1sem.bmml%2Cdepts_1sem%26bm%3Bdepts_1sem.bmml%26bm%3Bdepts_1sem.bmml%26bm%3Bdepts_1sem.bmml%2Ctchrs_1sem%26bm%3Btchrs_1sem.bmml%26bm%3Btchrs_1sem.bmml%26bm%3Btchrs_1sem.bmml%2Csubs_1sem%26bm%3Bsubs_1sem.bmml%26bm%3Bsubs_1sem.bmml%26bm%3Bsubs_1sem.bmml%2Cbats_1sem%26bm%3Bbats_1sem.bmml%26bm%3Bbats_1sem.bmml%26bm%3Bbats_1sem.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221005%2C74%2C1063%2C100%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%2257_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221063%2C74%2C1156%2C100%22%20href%3D%22depts_1sem.bmml%22%20alt%3D%22depts_1sem%22%20id%3D%2257_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221156%2C74%2C1227%2C100%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%2257_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221227%2C74%2C1292%2C100%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%2257_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221292%2C74%2C1354%2C100%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%2257_4%22/%3E%0A</map>
+        <selectedIndex>5</selectedIndex>
+        <size>14</size>
+        <tabHPosition>right</tabHPosition>
+        <text>College%2C%20Departments%2C%20Teachers%2C%20Subjects%2C%20Batches%2C%20Sections%20%26%20Students</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Canvas" x="1232" y="103" w="301" h="745" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16776960</color>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="__group__" x="1278" y="238" w="145" h="43" measuredW="145" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="16" w="145" h="27" measuredW="145" measuredH="27" zOrder="0" locked="false" isInGroup="113">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="145" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>16777215</color>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="117" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>13369344</color>
+                <icon>SearchIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="94" measuredH="18" zOrder="1" locked="false" isInGroup="113">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <size>11</size>
+            <state>up</state>
+            <text>Student%20Name/ID%3A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::ComboBox" x="1350" y="132" w="73" h="-1" measuredW="59" measuredH="82" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Batch%0A2010-14%0A2009-13%0A2008-12%0A2007-11</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::ComboBox" x="1436" y="132" w="79" h="-1" measuredW="69" measuredH="54" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Section%0ASection-A%0ASection-B</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Component" x="1442" y="242" w="65" h="37" measuredW="65" measuredH="37" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#go_button</src>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::ComboBox" x="1262" y="132" w="73" h="-1" measuredW="56" measuredH="82" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Dept%0ACSE%0AEEE%0AIT%0AMech.%20Engg.</text>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="__group__" x="2" y="288" w="1210" h="500" measuredW="1210" measuredH="500" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="6" y="0" w="-1" h="-1" measuredW="263" measuredH="24" zOrder="0" locked="false" isInGroup="152">
+          <controlProperties>
+            <hrefs>sec_stus_1sem%26bm%3Bsec_stus_1sem.bmml%26bm%3Bsec_stus_1sem.bmml%26bm%3Bsec_stus_1sem.bmml%2C</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%228%2C287%2C143%2C308%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_0%22/%3E%0A</map>
+            <text>2009-13%20%28Section%20-%20B%29%2C%20Satheesh%20Ramdass</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="50" w="1210" h="387" measuredW="1169" measuredH="382" zOrder="1" locked="false" isInGroup="152">
+          <controlProperties>
+            <alternateRowColor>15134199</alternateRowColor>
+            <rowHeight>40</rowHeight>
+            <size>11</size>
+            <text>%5CrSubject%5CrCode%5Cr%5Cr%2C%20Subject%2C%20Credits%2CTeacher%2C%20Assignments%2810m%29%5Cr%5Cr1%20%20%20%20%20%202%20%20%20%20%20%203%20%20%20%20%20%204%20%20%20%20%20%205%20%20%20%20Avg%20%20%2C%20Unit%20Tests%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20Avg%2C%20CIA%20Tests%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20Avg%20%20%20%20%2C%20Model%20Exam%25%5Cr%5Cr1%20%20%20%20%20%20%20%20%20%202%20%20%20%20%20%20%20%20%20%203%20%20%20%20%20%20%20%20Avg%2C%20Internal%20%5CrMarks%25%2C%20External%5CrMarks%25%2C%20Total%5CrMarks%25%2C%20Total%5CrHours%2C%20Atten%5Crdance%0AS0123%2C%20Computer%5CrArch.%20%28T%29%2C%204%2C%20Shanthi%2C%207%20%20%20%20%20%208%20%20%20%20%20%209%20%20%20%20%207%20%20%20%20%20%206%20%20%207.25%2C78%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2076%2C%2018%2C%2068%2C%2086%2C%2032%2C%2027%0AS0123%2C%20Digital%5CrSystems%20%28T%29%2C%204%2C%20Ramesh%5CrKannan%2C%207%20%20%20%20%20%208%20%20%20%20%20%209%20%20%20%20%207%20%20%20%20%20%206%20%20%207.25%2C78%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2076%2C%2018%2C%2068%2C%2086%2C%2032%2C%2027%0AS0123%2C%20Algorithms%20%28T%29%2C%203%2C%20Manjula%2C%207%20%20%20%20%20%208%20%20%20%20%20%209%20%20%20%20%207%20%20%20%20%20%206%20%20%207.25%2C78%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2076%2C%2018%2C%2068%2C%2086%2C%2032%2C%2027%0AS0123%2C%20Systems%5CrSoftware%20%28T%29%2C%203%2C%20Prema%5CrKumar%2C%207%20%20%20%20%20%208%20%20%20%20%20%209%20%20%20%20%207%20%20%20%20%20%206%20%20%207.25%2C78%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2076%2C%2018%2C%2068%2C%2086%2C%2032%2C%2027%0AS0123%2C%20Graph%5CrTheory%20%28T%29%2C%203%2C%20Lakshmi%5CrDeepa%2C%207%20%20%20%20%20%208%20%20%20%20%20%209%20%20%20%20%207%20%20%20%20%20%206%20%20%207.25%2C78%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2076%2C%2018%2C%2068%2C%2086%2C%2032%2C%2027%0AS0123%2C%20Electronic%5CrCircuits%20%28P%29%2C%202%2C%20Karthick%5CrSanthanam%2C%207%20%20%20%20%20%208%20%20%20%20%20%209%20%20%20%20%207%20%20%20%20%20%206%20%20%207.25%2C78%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2076%2C%2018%2C%2068%2C%2086%2C%2032%2C%2027%0AS0123%2C%20System%5Crsoftware%20%28P%29%2C%202%2C%20Sudha%5CrSriram%2C%207%20%20%20%20%20%208%20%20%20%20%20%209%20%20%20%20%207%20%20%20%20%20%206%20%20%207.25%2C78%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2076%2C%2018%2C%2068%2C%2086%2C%2032%2C%2027%0AS0123%2C%20AJP%20%28P%29%2C%202%2C%20Rama%5CrSubramanian%2C%207%20%20%20%20%20%208%20%20%20%20%20%209%20%20%20%20%207%20%20%20%20%20%206%20%20%207.25%2C78%20%20%20%20%20%20%20%2074%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2079%2C64%20%20%20%20%20%20%2068%20%20%20%20%20%20%20%2072%20%20%20%20%20%20%20%20%2066%2C74%20%20%20%20%20%20%2078%20%20%20%20%20%20%20%2082%20%20%20%20%20%20%20%20%2076%2C%2018%2C%2068%2C%2086%2C%2032%2C%2027%0A%7B0L%2C0L%2C0C%2C0C%2C0C%2C0C%2C0C%2C0C%2C0C%2C0C%2C0C%2C0C%2C0C%7D</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Tooltip" x="658" y="0" w="109" h="50" measuredW="92" measuredH="50" zOrder="2" locked="false" isInGroup="152">
+          <controlProperties>
+            <size>11</size>
+            <text>Include%20RTs%20here</text>
+            <tooltipDirection>SW</tooltipDirection>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Tooltip" x="118" y="437" w="200" h="63" measuredW="199" measuredH="63" zOrder="3" locked="false" isInGroup="152">
+          <controlProperties>
+            <size>11</size>
+            <text>Differentiate%20the%20subjects%20that%20are%20arrears%20from%20that%20are%20regular</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Tooltip" x="881" y="436" w="200" h="57" measuredW="196" measuredH="57" zOrder="4" locked="false" isInGroup="152">
+          <controlProperties>
+            <size>11</size>
+            <text>Highlight%20the%20total%20marks%20with%20color%20to%20indicate%20pass%20and%20failure</text>
+            <tooltipDirection>NE</tooltipDirection>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="154" controlTypeID="__group__" x="866" y="164" w="197" h="148" measuredW="197" measuredH="148" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="31" w="-1" h="-1" measuredW="197" measuredH="117" zOrder="0" locked="false" isInGroup="154">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>square</borderStyle>
+            <color>16777215</color>
+            <hasHeader>false</hasHeader>
+            <rowHeight>22</rowHeight>
+            <selectedIndex>-1</selectedIndex>
+            <size>12</size>
+            <text>Semester%20Number%2C%207%0AArrears%20in%20current%20semester%2C%202%0ATotal%20Arrears%2C%205%0AGPA%2C%207.6%0ACGPA%2C%207.4</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="82" measuredH="26" zOrder="1" locked="false" isInGroup="154">
+          <controlProperties>
+            <size>18</size>
+            <text>Overview</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Title" x="405" y="130" w="-1" h="-1" measuredW="250" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Satheesh%20Ramdass%20%282009-13%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="__group__" x="2" y="4" w="1532" h="850" measuredW="1532" measuredH="850" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>container</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1532" h="850" measuredW="1532" measuredH="850" zOrder="0" locked="false" isInGroup="156">
+          <controlProperties>
+            <controlName>container</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1532" h="850" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="157" controlTypeID="__group__" x="6" y="8" w="1529" h="70" measuredW="1529" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>main_header</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1529" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="157">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>16776960</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="607" y="15" w="317" h="-1" measuredW="292" measuredH="28" zOrder="1" locked="false" isInGroup="157">
+          <controlProperties>
+            <size>20</size>
+            <text>Awesome%20College%20to%20Technology</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="1386" y="39" w="136" h="-1" measuredW="65" measuredH="25" zOrder="2" locked="false" isInGroup="157"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="1203" y="8" w="-1" h="-1" measuredW="236" measuredH="21" zOrder="3" locked="false" isInGroup="157">
+          <controlProperties>
+            <text>Home%2C%20Help%2C%20Company%2C%20Signout%21</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="161" controlTypeID="__group__" x="1016" y="119" w="211" h="32" measuredW="211" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="211" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="161">
+          <controlProperties>
+            <borderColor>13421772</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>545684</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="57" y="5" w="-1" h="-1" measuredW="146" measuredH="22" zOrder="1" locked="false" isInGroup="161">
+          <controlProperties>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>14</size>
+            <text>Generate%20Report%20Card</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="4" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="161">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>PrintIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="163" controlTypeID="__group__" x="33" y="114" w="130" h="24" measuredW="130" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>history_link</controlName>
+        <href>history%26bm%3Bhistory.bmml%26bm%3Bhistory.bmml%26bm%3Bhistory.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C110%2C163%2C134%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%22163%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="32" y="0" w="-1" h="-1" measuredW="98" measuredH="22" zOrder="0" locked="false" isInGroup="163">
+          <controlProperties>
+            <size>14</size>
+            <text>Back%20to%20History</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="163">
+          <controlProperties>
+            <color>7317724</color>
+            <icon>JumpBackIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::Title" x="535" y="156" w="-1" h="-1" measuredW="120" measuredH="22" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <size>14</size>
+        <text>Jan%20%2710%20Semester</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

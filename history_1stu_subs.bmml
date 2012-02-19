@@ -1,0 +1,199 @@
+<mockup version="1.0" skin="sketch" measuredW="1417" measuredH="854" mockupW="1417" mockupH="850">
+  <controls>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Component" x="2" y="4" w="1415" h="850" measuredW="1415" measuredH="850" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#container</src>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="__group__" x="6" y="8" w="1407" h="70" measuredW="1407" measuredH="70" zOrder="3" locked="true" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1407" h="70" measuredW="1407" measuredH="70" zOrder="0" locked="false" isInGroup="55">
+          <controlProperties>
+            <src>./assets/symbols.bmml#main_header</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="78" w="1415" h="728" measuredW="568" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>depts%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%2Ctchrs%26bm%3Btchrs.bmml%26bm%3Btchrs.bmml%26bm%3Btchrs.bmml%2Csubs%26bm%3Bsubs.bmml%26bm%3Bsubs.bmml%26bm%3Bsubs.bmml%2Cbats%26bm%3Bbats.bmml%26bm%3Bbats.bmml%26bm%3Bbats.bmml%2Csec_stus%26bm%3Bsec_stus.bmml%26bm%3Bsec_stus.bmml%26bm%3Bsec_stus.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22897%2C74%2C990%2C100%22%20href%3D%22depts.bmml%22%20alt%3D%22depts%22%20id%3D%2257_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22990%2C74%2C1061%2C100%22%20href%3D%22tchrs.bmml%22%20alt%3D%22tchrs%22%20id%3D%2257_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221061%2C74%2C1126%2C100%22%20href%3D%22subs.bmml%22%20alt%3D%22subs%22%20id%3D%2257_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221126%2C74%2C1188%2C100%22%20href%3D%22bats.bmml%22%20alt%3D%22bats%22%20id%3D%2257_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221188%2C74%2C1319%2C100%22%20href%3D%22sec_stus.bmml%22%20alt%3D%22sec_stus%22%20id%3D%2257_4%22/%3E%0A</map>
+        <selectedIndex>5</selectedIndex>
+        <size>14</size>
+        <tabHPosition>right</tabHPosition>
+        <text>Departments%2C%20Teachers%2C%20Subjects%2C%20Batches%2C%20Section%20%26%20Students%2C%20History</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Canvas" x="1082" y="103" w="332" h="699" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16776960</color>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="78" w="1415" h="728" measuredW="437" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>depts%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%2Ctchrs%26bm%3Btchrs.bmml%26bm%3Btchrs.bmml%26bm%3Btchrs.bmml%2Csubs%26bm%3Bsubs.bmml%26bm%3Bsubs.bmml%26bm%3Bsubs.bmml%2Cbats%26bm%3Bbats.bmml%26bm%3Bbats.bmml%26bm%3Bbats.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221028%2C74%2C1121%2C100%22%20href%3D%22depts.bmml%22%20alt%3D%22depts%22%20id%3D%2286_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221121%2C74%2C1192%2C100%22%20href%3D%22tchrs.bmml%22%20alt%3D%22tchrs%22%20id%3D%2286_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221192%2C74%2C1257%2C100%22%20href%3D%22subs.bmml%22%20alt%3D%22subs%22%20id%3D%2286_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221257%2C74%2C1319%2C100%22%20href%3D%22bats.bmml%22%20alt%3D%22bats%22%20id%3D%2286_3%22/%3E%0A</map>
+        <selectedIndex>4</selectedIndex>
+        <size>14</size>
+        <tabHPosition>right</tabHPosition>
+        <text>Departments%2C%20Teachers%2C%20Subjects%2C%20Batches%2C%20History</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::ComboBox" x="1090" y="219" w="107" h="-1" measuredW="65" measuredH="110" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Select%0ADepartment%0ATeacher%0AStudent%0ABatch%0ASubject%0ACollege</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::ComboBox" x="1172" y="134" w="-1" h="-1" measuredW="109" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Semester%20From</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Tooltip" x="1246" y="154" w="141" h="44" measuredW="120" measuredH="44" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Default%20is%20latest%208%20semesters</text>
+        <tooltipDirection>NE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::DataGrid" x="1120" y="355" w="284" h="322" measuredW="219" measuredH="322" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15134199</alternateRowColor>
+        <selectedIndex>8</selectedIndex>
+        <size>11</size>
+        <text>Name%2C%20ID%2C%20Batch%0ASaminathan%20Kumar%2C%20ST156%2C%202006-10%0ASameera%20Raj%2C%20ST453%2C%202007-11%0ASamuel%20Jackson%2C%20ST889%2C%202008-12%0ASarojini%20Kumar%2C%20ST156%2C%202007-11%0ASaranya%20Prakash%2C%20ST346%2C%202006-10%0ASathya%20Kumar%2C%20ST689%2C%202008-12%0ASathya%20Narayanan%2C%20ST667%2C%202008-12%0ASatheesh%20Kumar%2C%20ST145%2C%202006-10%0ASatheesh%20Ramdass%2C%20ST567%2C%202008-12%0ASatish%20Raj%2C%20ST908%2C%202007-11</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::ComboBox" x="1301" y="134" w="-1" h="-1" measuredW="98" measuredH="20" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Semester%20To</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="__group__" x="1205" y="225" w="202" h="49" measuredW="202" measuredH="49" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="202" h="49" measuredW="202" measuredH="49" zOrder="0" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="22" w="202" h="27" measuredW="202" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="202" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <color>16777215</color>
+                    <text/>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="177" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <color>13369344</color>
+                    <icon>SearchIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="65" measuredH="20" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <size>12</size>
+                <text>Name%20/%20ID%3A</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="24" w="-1" h="-1" measuredW="20" measuredH="20" zOrder="1" locked="false" isInGroup="94">
+          <controlProperties>
+            <bold>true</bold>
+            <color>545684</color>
+            <size>12</size>
+            <text>Sa</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="99" controlTypeID="__group__" x="620" y="259" w="379" h="307" measuredW="379" measuredH="307" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="26" w="379" h="281" measuredW="335" measuredH="276" zOrder="0" locked="false" isInGroup="99">
+          <controlProperties>
+            <alternateRowColor>15134199</alternateRowColor>
+            <bold>true</bold>
+            <rowHeight>36</rowHeight>
+            <size>12</size>
+            <text>Subject%2C%20Internal%25%2C%20External%25%2C%20Total%25%0AProbability%20and%5CrQueuing%20Theory%20%28T%29%2C%2014%2C%2072%2C%2086%0AAlgorithms%20%28T%29%2C%2014%2C%2072%2C%2086%0ASystems%20Software%20%28T%29%2C%2014%2C%2072%2C%2086%0ADBMS%20%28T%29%2C%2014%2C%2072%2C%2086%0ASystems%20Software%20%28P%29%2C%2014%2C%2072%2C%2086%0AAnalog%20and%5CrDigital%20Comm.%20%28P%29%2C%2014%2C%2072%2C%2086%0ADBMS%20%28P%29%2C%2014%2C%2072%2C%2086</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="210" measuredH="24" zOrder="1" locked="false" isInGroup="99">
+          <controlProperties>
+            <align>left</align>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Subject%20Split%20Up%20-%20Jan%202010</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="284" y="2" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="2" locked="false" isInGroup="99">
+          <controlProperties>
+            <href>history_1stu%26bm%3Bhistory_1stu.bmml%26bm%3Bhistory_1stu.bmml%26bm%3Bhistory_1stu.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22904%2C257%2C988%2C278%22%20href%3D%22history_1stu.bmml%22%20alt%3D%22history_1stu%22%20id%3D%222%22/%3E</map>
+            <text>Hide%20Subjects</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="100" controlTypeID="__group__" x="46" y="261" w="501" h="322" measuredW="501" measuredH="322" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="9" y="36" w="58" h="34" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="100">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderStyle>roundedSolid</borderStyle>
+            <href>sec_stus_1sem_1stu%26bm%3Bsec_stus_1sem_1stu.bmml%26bm%3Bsec_stus_1sem_1stu.bmml%26bm%3Bsec_stus_1sem_1stu.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C293%2C113%2C327%22%20href%3D%22sec_stus_1sem_1stu.bmml%22%20alt%3D%22sec_stus_1sem_1stu%22%20id%3D%222%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="501" h="322" measuredW="501" measuredH="322" zOrder="0" locked="false" isInGroup="100">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="501" h="322" measuredW="419" measuredH="324" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <alternateRowColor>15134199</alternateRowColor>
+                <bold>true</bold>
+                <hasHeader>true</hasHeader>
+                <rowHeight>41</rowHeight>
+                <selectedIndex>-1</selectedIndex>
+                <size>12</size>
+                <text>Semester%2C%20Semester%5CrNumber%2C%20Arrears%5Crthis%20sem%2C%20Total%5CrArrears%2C%20GPA%2CCGPA%2C%20Subject%5Crsplit%0A%5BJan%202010%5D%2C%207%2C%201%2C%205%2C%207.7%2C%207.66%2C%20%5BDetails%5D%0A%5BAug%202009%5D%2C%206%2C%201%2C%204%2C%207.6%2C%207.55%2C%20%5BDetails%5D%0A%5BJan%202009%5D%2C%205%2C%200%2C%203%2C%207.9%2C%207.5%2C%20%5BDetails%5D%0A%5BAug%202008%5D%2C%204%2C%200%2C%203%2C%208.2%2C%207.4%2C%20%5BDetails%5D%0A%5BJan%202008%5D%2C%203%2C%202%2C%203%2C%206.2%2C%206.8%2C%20%5BDetails%5D%0A%5BAug%202007%5D%2C%202%2C%200%2C1%2C%207.4%2C7.3%2C%20%5BDetails%5D%0A%5BJan%202007%5D%2C%201%2C%201%2C1%2C7.2%2C7.2%2C%20%5BDetails%5D%0A%7B0L%2C%200C%2C%200C%2C%200C%2C0C%7D</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Link" x="467" y="177" w="-1" h="-1" measuredW="185" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>history_1stu_subs_all_1-2sem%26bm%3Bhistory_1stu_subs_all_1-2sem.bmml%26bm%3Bhistory_1stu_subs_all_1-2sem.bmml%26bm%3Bhistory_1stu_subs_all_1-2sem.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22467%2C173%2C652%2C194%22%20href%3D%22history_1stu_subs_all_1-2sem.bmml%22%20alt%3D%22history_1stu_subs_all_1-2sem%22%20id%3D%22101%22/%3E</map>
+        <text>Subject%20Split%20up%20-%20All%20semesters</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="__group__" x="442" y="128" w="235" h="48" measuredW="235" measuredH="48" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="21" y="0" w="-1" h="-1" measuredW="163" measuredH="26" zOrder="0" locked="false" isInGroup="102">
+          <controlProperties>
+            <align>left</align>
+            <bold>true</bold>
+            <size>18</size>
+            <text>Satheesh%20Ramdass</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="0" y="26" w="-1" h="-1" measuredW="235" measuredH="22" zOrder="1" locked="false" isInGroup="102">
+          <controlProperties>
+            <align>left</align>
+            <bold>true</bold>
+            <size>14</size>
+            <text>Semester%20Results%20%28Jan%20%2710%20-%20Jan%20%2707%29</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

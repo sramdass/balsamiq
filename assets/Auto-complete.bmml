@@ -1,0 +1,28 @@
+<mockup version="1.0" skin="sketch" measuredW="222" measuredH="70" mockupW="198" mockupH="62">
+  <controls>
+    <control controlID="3" controlTypeID="__group__" x="24" y="8" w="198" h="62" measuredW="198" measuredH="62" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Auto-complete</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="198" h="-1" measuredW="36" measuredH="27" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <text>Bud</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="19" w="198" h="43" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <text>Bud%20Light%0ABudweiser</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="19" w="198" h="20" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="3">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>16770457</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

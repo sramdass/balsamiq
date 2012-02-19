@@ -1,0 +1,87 @@
+<mockup version="1.0" skin="sketch" measuredW="1368" measuredH="759" mockupW="1364" mockupH="756">
+  <controls>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="4" y="3" w="1364" h="756" measuredW="1364" measuredH="756" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1361" h="756"/>
+        <override controlID="1" x="3" y="3" w="1361" h="62"/>
+        <override controlID="2" x="562" y="18" w="-1" h="-1"/>
+        <override controlID="3" x="1174" y="29" w="122" h="25"/>
+        <override controlID="4" x="938" y="18" w="236" h="21"/>
+        <override controlID="0:0:0" x="0" y="0" w="1361" h="756"/>
+        <override controlID="0:0" x="0" y="0" w="1361" h="756"/>
+        <src>./assets/symbols.bmml#basepage</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="46" y="271" w="150" h="129" measuredW="150" measuredH="273" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Home%0AWatch%20List%0AAttendance%0A-%20Teachers%0A-%20Students%0ALast%20Semester%0ASettings</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="42" y="80" w="150" h="143" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="42" y="231" w="-1" h="-1" measuredW="145" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Radha%20Krishnan%20T</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::ComboBox" x="262" y="99" w="139" h="-1" measuredW="74" measuredH="94" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%0ATeacher%0AStudent%0ASubject%0ABatch</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="416" y="117" w="187" h="27" measuredW="187" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="187" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="25">
+          <controlProperties>
+            <color>16777215</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="164" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="25">
+          <controlProperties>
+            <color>13369344</color>
+            <icon>SearchIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Canvas" x="254" y="79" w="397" h="129" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="416" y="92" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20/%20ID</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="__group__" x="1124" y="65" w="241" h="685" measuredW="241" measuredH="685" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="241" h="685" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="41"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="6" y="20" w="129" h="-1" measuredW="129" measuredH="28" zOrder="1" locked="false" isInGroup="41">
+          <controlProperties>
+            <size>20</size>
+            <text>My%20Favourites</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Title" x="247" y="235" w="-1" h="-1" measuredW="191" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Students%20Watch%20List</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::DataGrid" x="247" y="286" w="704" h="390" measuredW="540" measuredH="386" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15134199</alternateRowColor>
+        <rowHeight>44</rowHeight>
+        <size>11</size>
+        <text>Name%20%5E%2C%20Batch%2C%20Semester%5CrNumber%2C%20Total%5CrArrears%2C%20Current%20Sem%5CrAttendance%28hrs%29%2C%20Counsellor%2C%20Details%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%7B0l%2C%200c%2C%200c%2C%200c%2C%200c%2C0l%2C0l%7D</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
