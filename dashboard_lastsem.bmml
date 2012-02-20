@@ -1,0 +1,126 @@
+<mockup version="1.0" skin="sketch" measuredW="1472" measuredH="850" mockupW="1471" mockupH="850">
+  <controls>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="1" y="0" w="1471" h="850" measuredW="1471" measuredH="850" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1471" h="850"/>
+        <override controlID="1" x="3" y="3" w="1466" h="70"/>
+        <override controlID="2" x="587" y="18" w="304" h="28"/>
+        <override controlID="3" x="1295" y="36" w="165" h="25"/>
+        <override controlID="4" x="1034" y="21" w="236" h="21"/>
+        <override controlID="0:0:0" x="0" y="0" w="1471" h="850"/>
+        <override controlID="0:0" x="0" y="0" w="1471" h="850"/>
+        <src>./assets/symbols.bmml#basepage</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="46" y="271" w="150" h="129" measuredW="150" measuredH="273" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>dashboard%26bm%3Bdashboard.bmml%26bm%3Bdashboard.bmml%26bm%3Bdashboard.bmml%2Cdashboard_watlist%26bm%3Bdashboard_watlist.bmml%26bm%3Bdashboard_watlist.bmml%26bm%3Bdashboard_watlist.bmml%2Cdashboard_attedance%26bm%3Bdashboard_attedance.bmml%26bm%3Bdashboard_attedance.bmml%26bm%3Bdashboard_attedance.bmml%2Cdashboard_attedance%26bm%3Bdashboard_attedance.bmml%26bm%3Bdashboard_attedance.bmml%26bm%3Bdashboard_attedance.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C271%2C195%2C301%22%20href%3D%22dashboard.bmml%22%20alt%3D%22dashboard%22%20id%3D%227_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C296%2C195%2C326%22%20href%3D%22dashboard_watlist.bmml%22%20alt%3D%22dashboard_watlist%22%20id%3D%227_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C321%2C195%2C351%22%20href%3D%22dashboard_attedance.bmml%22%20alt%3D%22dashboard_attedance%22%20id%3D%227_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C271%2C45%2C271%22%20href%3D%22dashboard_attedance.bmml%22%20alt%3D%22dashboard_attedance%22%20id%3D%227_3%22/%3E%0A</map>
+        <selectedIndex>5</selectedIndex>
+        <text>Home%0AWatch%20List%0AAttendance%0A-%20Teachers%0A-%20Students%0ALast%20Semester%0ASettings</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="42" y="80" w="150" h="143" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="42" y="231" w="-1" h="-1" measuredW="145" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Radha%20Krishnan%20T</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Title" x="468" y="132" w="452" h="-1" measuredW="391" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Awesome%20College%20-%20Jan%202010%20Semester%20Results</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="375" y="214" w="621" h="70" measuredW="621" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="207" h="70" measuredW="207" measuredH="70" zOrder="0" locked="false" isInGroup="16">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="207" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <color>15658734</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="15" y="6" w="-1" h="-1" measuredW="150" measuredH="37" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <size>28</size>
+                <text>Pass%20%25%3A%2078</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="121" y="34" w="59" h="24" measuredW="59" measuredH="24" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <src>./assets/symbols.bmml#down_arrow</src>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="207" y="0" w="207" h="70" measuredW="207" measuredH="70" zOrder="1" locked="false" isInGroup="16">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="207" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <color>15658734</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="15" y="6" w="-1" h="-1" measuredW="152" measuredH="37" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>28</size>
+                <text>Marks%25%3A%2081</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="121" y="34" w="59" h="24" measuredW="59" measuredH="24" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <src>./assets/symbols.bmml#up_arrow</src>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="414" y="0" w="207" h="70" measuredW="207" measuredH="70" zOrder="2" locked="false" isInGroup="16">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="207" h="70" measuredW="207" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="207" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderColor>0</borderColor>
+                    <color>15658734</color>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="15" y="6" w="-1" h="-1" measuredW="168" measuredH="37" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <size>28</size>
+                    <text>Arrears%3A%20700</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="124" y="38" w="55" h="24" measuredW="55" measuredH="24" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <override controlID="0">
+                  <text>7%25</text>
+                </override>
+                <src>./assets/symbols.bmml#up_arrow</src>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::DataGrid" x="217" y="340" w="933" h="182" measuredW="882" measuredH="181" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15658734</alternateRowColor>
+        <rowHeight>65</rowHeight>
+        <size>16</size>
+        <text>Student%20%5Crstrength%5Cr%5Cr%2C%20Register%20Papers%2C%20Cleared%20Papers%2C%20Arrears%2C%20Pass%25%2C%20Marks%25%2C%20No%5CrArrears%2C%20Avg%20%5CrGPA%2C%20Avg%20%5CrCGPA%2C%20Top%20%5CrGPA%2C%20Top%20%5CrCGPA%0A%5Cr%5Cr%5Cr1400%5Cr%5Cr%5Cr%2C%20Current%3A%206000%5Cr%5CrCarrying%3A%20700%5Cr%5CrTotal%3A%206700%2CCurrent%3A%205500%5Cr%5CrCarrying%3A%20200%5Cr%5CrTotal%3A%205700%2CCurrent%3A%20500%5Cr%5CrCarrying%3A%20500%5Cr%5CrTotal%3A%20700%2C%2078%25%2C%2081%25%2C%20780%2C%207.23%2C%207.12%2C%209.3%2C%209.1%0A%7B0c%2C0l%2C0l%2C0l%2C0c%2C0c%2C0c%2C0c%2C0c%2C0c%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="1162" y="70" w="310" h="780" measuredW="310" measuredH="780" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#favourites_bar</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

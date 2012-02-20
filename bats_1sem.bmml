@@ -1,51 +1,14 @@
-<mockup version="1.0" skin="sketch" measuredW="1417" measuredH="854" mockupW="1417" mockupH="850">
+<mockup version="1.0" skin="sketch" measuredW="1418" measuredH="850" mockupW="1418" mockupH="850">
   <controls>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::Component" x="2" y="4" w="1415" h="850" measuredW="1415" measuredH="850" zOrder="0" locked="true" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/symbols.bmml#container</src>
-      </controlProperties>
-    </control>
-    <control controlID="55" controlTypeID="__group__" x="6" y="8" w="1407" h="70" measuredW="1407" measuredH="70" zOrder="2" locked="true" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1407" h="70" measuredW="1407" measuredH="70" zOrder="0" locked="false" isInGroup="55">
-          <controlProperties>
-            <src>./assets/symbols.bmml#main_header</src>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="78" w="1415" h="728" measuredW="578" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <hrefs>clg_1sem%26bm%3Bclg_1sem.bmml%26bm%3Bclg_1sem.bmml%26bm%3Bclg_1sem.bmml%2Cdepts_1sem%26bm%3Bdepts_1sem.bmml%26bm%3Bdepts_1sem.bmml%26bm%3Bdepts_1sem.bmml%2Ctchrs_1sem%26bm%3Btchrs_1sem.bmml%26bm%3Btchrs_1sem.bmml%26bm%3Btchrs_1sem.bmml%2Csubs_1sem%26bm%3Bsubs_1sem.bmml%26bm%3Bsubs_1sem.bmml%26bm%3Bsubs_1sem.bmml%2C%2Csec_stus_1sem%26bm%3Bsec_stus_1sem.bmml%26bm%3Bsec_stus_1sem.bmml%26bm%3Bsec_stus_1sem.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C74%2C945%2C100%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%2257_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22945%2C74%2C1038%2C100%22%20href%3D%22depts_1sem.bmml%22%20alt%3D%22depts_1sem%22%20id%3D%2257_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C74%2C1109%2C100%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%2257_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C74%2C1174%2C100%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%2257_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C74%2C1371%2C100%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%2257_4%22/%3E%0A</map>
-        <selectedIndex>4</selectedIndex>
-        <size>14</size>
-        <tabHPosition>right</tabHPosition>
-        <text>College%2C%20Departments%2C%20Teachers%2C%20Subjects%2C%20Batches%2C%20Sections%20%26%20Students</text>
-      </controlProperties>
-    </control>
-    <control controlID="60" controlTypeID="com.balsamiq.mockups::Canvas" x="1170" y="103" w="244" h="699" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>16776960</color>
-      </controlProperties>
-    </control>
-    <control controlID="104" controlTypeID="com.balsamiq.mockups::Component" x="1177" y="226" w="163" h="355" measuredW="163" measuredH="355" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <override controlID="0" x="0" y="0" w="163" h="355"/>
-        <src>./assets/symbols.bmml#batches_list</src>
-      </controlProperties>
-    </control>
-    <control controlID="109" controlTypeID="com.balsamiq.mockups::LinkBar" x="799" y="188" w="-1" h="-1" measuredW="291" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::LinkBar" x="785" y="222" w="-1" h="-1" measuredW="291" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2C%2Cbats_sub_wise_1sem%26bm%3Bbats_sub_wise_1sem.bmml%26bm%3Bbats_sub_wise_1sem.bmml%26bm%3Bbats_sub_wise_1sem.bmml%2Cbats_sub_wise_1sem%26bm%3Bbats_sub_wise_1sem.bmml%26bm%3Bbats_sub_wise_1sem.bmml%26bm%3Bbats_sub_wise_1sem.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22968%2C184%2C1042%2C205%22%20href%3D%22bats_sub_wise_1sem.bmml%22%20alt%3D%22bats_sub_wise_1sem%22%20id%3D%22109_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221062%2C184%2C1090%2C205%22%20href%3D%22bats_sub_wise_1sem.bmml%22%20alt%3D%22bats_sub_wise_1sem%22%20id%3D%22109_1%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22954%2C222%2C1028%2C243%22%20href%3D%22bats_sub_wise_1sem.bmml%22%20alt%3D%22bats_sub_wise_1sem%22%20id%3D%22109_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221048%2C222%2C1076%2C243%22%20href%3D%22bats_sub_wise_1sem.bmml%22%20alt%3D%22bats_sub_wise_1sem%22%20id%3D%22109_1%22/%3E%0A</map>
         <selectedIndex>1</selectedIndex>
         <text>%3C%3C-%2C%20Department-split%2C%20Subject-split%2C%20-%3E%3E</text>
       </controlProperties>
     </control>
-    <control controlID="111" controlTypeID="__group__" x="30" y="241" w="968" h="328" measuredW="968" measuredH="328" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="111" controlTypeID="__group__" x="30" y="237" w="968" h="328" measuredW="968" measuredH="328" zOrder="8" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="2" controlTypeID="__group__" x="0" y="0" w="968" h="328" measuredW="968" measuredH="328" zOrder="0" locked="false" isInGroup="111">
           <groupChildrenDescriptors>
@@ -72,7 +35,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="112" controlTypeID="__group__" x="30" y="610" w="968" h="163" measuredW="968" measuredH="163" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="112" controlTypeID="__group__" x="30" y="606" w="968" h="163" measuredW="968" measuredH="163" zOrder="9" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="2" controlTypeID="__group__" x="0" y="0" w="968" h="163" measuredW="968" measuredH="163" zOrder="0" locked="false" isInGroup="112">
           <groupChildrenDescriptors>
@@ -99,17 +62,54 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="113" controlTypeID="__group__" x="1177" y="166" w="163" h="43" measuredW="163" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1418" h="850" measuredW="1418" measuredH="850" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#basepage</src>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Component" x="0" y="107" w="1415" h="740" measuredW="1415" measuredH="740" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C107%2C945%2C133%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22945%2C107%2C1038%2C133%22%20href%3D%22depts_1sem.bmml%22%20alt%3D%22depts_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C107%2C1109%2C133%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C107%2C1174%2C133%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C107%2C1371%2C133%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C107%2C945%2C133%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22945%2C107%2C1038%2C133%22%20href%3D%22depts_1sem.bmml%22%20alt%3D%22depts_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C107%2C1109%2C133%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C107%2C1174%2C133%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C107%2C1371%2C133%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C107%2C945%2C133%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22945%2C107%2C1038%2C133%22%20href%3D%22depts_1sem.bmml%22%20alt%3D%22depts_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C107%2C1109%2C133%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C107%2C1174%2C133%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C107%2C1371%2C133%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C107%2C945%2C133%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22945%2C107%2C1038%2C133%22%20href%3D%22depts_1sem.bmml%22%20alt%3D%22depts_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C107%2C1109%2C133%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C107%2C1174%2C133%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C107%2C1236%2C133%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C107%2C1371%2C133%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C107%2C945%2C133%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C107%2C1109%2C133%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C107%2C1174%2C133%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C107%2C1236%2C133%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C107%2C1371%2C133%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C107%2C945%2C133%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C107%2C1109%2C133%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C107%2C1174%2C133%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C107%2C1236%2C133%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C107%2C1371%2C133%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A</map>
+        <override controlID="0">
+          <hrefs>clg_1sem%26bm%3Bclg_1sem.bmml%26bm%3Bclg_1sem.bmml%26bm%3Bclg_1sem.bmml%2Cdepts_1sem%26bm%3Bdepts_1sem.bmml%26bm%3Bdepts_1sem.bmml%26bm%3Bdepts_1sem.bmml%2Ctchrs_1sem%26bm%3Btchrs_1sem.bmml%26bm%3Btchrs_1sem.bmml%26bm%3Btchrs_1sem.bmml%2Csubs_1sem%26bm%3Bsubs_1sem.bmml%26bm%3Bsubs_1sem.bmml%26bm%3Bsubs_1sem.bmml%2C%2Csec_stus_1sem%26bm%3Bsec_stus_1sem.bmml%26bm%3Bsec_stus_1sem.bmml%26bm%3Bsec_stus_1sem.bmml</hrefs>
+          <selectedIndex>4</selectedIndex>
+        </override>
+        <src>./assets/symbols.bmml#tabs_1sem</src>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::IconLabel" x="1173" y="165" w="-1" h="-1" measuredW="173" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>545684</color>
+        <icon>EyeIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>12</size>
+        <text>Jan%2710%20-%20View%20All%20Batches</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Component" x="6" y="78" w="267" h="53" measuredW="267" measuredH="53" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C107%2C273%2C129%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C107%2C273%2C129%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C107%2C273%2C129%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C107%2C273%2C129%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C107%2C273%2C129%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C107%2C273%2C129%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
+        <src>./assets/symbols.bmml#sem_name_heading</src>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Component" x="1150" y="202" w="268" h="648" measuredW="268" measuredH="648" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="268" h="648"/>
+        <src>./assets/symbols.bmml#side-bar</src>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="__group__" x="1173" y="211" w="200" h="45" measuredW="200" measuredH="45" zOrder="5" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="0" y="16" w="163" h="27" measuredW="163" measuredH="27" zOrder="0" locked="false" isInGroup="113">
+        <control controlID="0" controlTypeID="__group__" x="0" y="18" w="200" h="27" measuredW="200" measuredH="27" zOrder="0" locked="false" isInGroup="129">
           <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="163" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="200" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="0">
               <controlProperties>
                 <color>16777215</color>
                 <text/>
               </controlProperties>
             </control>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="142" y="4" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="174" y="4" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="0">
               <controlProperties>
                 <color>13369344</color>
                 <icon>SearchIcon%7Cxsmall</icon>
@@ -117,10 +117,10 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="67" measuredH="18" zOrder="1" locked="false" isInGroup="113">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="121" h="18" measuredW="67" measuredH="18" zOrder="1" locked="false" isInGroup="129">
           <controlProperties>
             <bold>false</bold>
-            <color>0</color>
+            <color>13369344</color>
             <size>11</size>
             <state>up</state>
             <text>Batch%20Name%3A</text>
@@ -128,49 +128,29 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::IconLabel" x="1177" y="125" w="-1" h="-1" measuredW="207" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Component" x="199" y="788" w="712" h="22" measuredW="712" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>EyeIcon%7Csmall</icon>
-        <labelPosition>right</labelPosition>
-        <size>11</size>
-        <text>View%20all%20the%20batches%20for%20Jan%2710%20sem</text>
+        <src>./assets/symbols.bmml#semester_bar</src>
       </controlProperties>
     </control>
-    <control controlID="120" controlTypeID="__group__" x="30" y="116" w="130" h="24" measuredW="130" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Component" x="452" y="818" w="135" h="24" measuredW="135" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <controlName>history_link</controlName>
-        <href>history%26bm%3Bhistory.bmml%26bm%3Bhistory.bmml%26bm%3Bhistory.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C112%2C160%2C136%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%22120%22/%3E</map>
-      </controlProperties>
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="32" y="0" w="-1" h="-1" measuredW="98" measuredH="22" zOrder="0" locked="false" isInGroup="120">
-          <controlProperties>
-            <size>14</size>
-            <text>Back%20to%20History</text>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="120">
-          <controlProperties>
-            <color>7317724</color>
-            <icon>JumpBackIcon%7Csmall</icon>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="122" controlTypeID="com.balsamiq.mockups::Title" x="457" y="129" w="-1" h="-1" measuredW="148" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>left</align>
-        <bold>true</bold>
-        <size>18</size>
-        <text>2009-2013%20batch</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C818%2C587%2C840%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C818%2C587%2C840%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C818%2C587%2C840%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C818%2C587%2C840%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C818%2C587%2C840%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C818%2C587%2C840%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
+        <src>./assets/symbols.bmml#history_link</src>
       </controlProperties>
     </control>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::Title" x="448" y="155" w="-1" h="-1" measuredW="165" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Component" x="1193" y="279" w="163" h="290" measuredW="163" measuredH="290" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
-        <align>left</align>
-        <bold>false</bold>
-        <size>14</size>
-        <text>Jan%2710%20Semester%20Results</text>
+        <override controlID="0" x="0" y="0" w="163" h="290"/>
+        <src>./assets/symbols.bmml#batches_list</src>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Component" x="370" y="160" w="186" h="33" measuredW="186" measuredH="33" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>2009%20-%2013%20Batch</text>
+        </override>
+        <src>./assets/symbols.bmml#inside_tab_heading</src>
       </controlProperties>
     </control>
   </controls>
