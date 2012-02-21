@@ -48,7 +48,7 @@
     </control>
     <control controlID="148" controlTypeID="com.balsamiq.mockups::Component" x="6" y="66" w="267" h="53" measuredW="267" measuredH="53" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C93%2C273%2C115%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
         <src>./assets/symbols.bmml#sem_name_heading</src>
       </controlProperties>
     </control>
@@ -67,7 +67,7 @@
     </control>
     <control controlID="151" controlTypeID="com.balsamiq.mockups::Component" x="452" y="876" w="135" h="24" measuredW="135" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C874%2C587%2C896%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
         <src>./assets/symbols.bmml#history_link</src>
       </controlProperties>
     </control>

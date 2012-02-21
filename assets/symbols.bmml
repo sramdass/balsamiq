@@ -1,24 +1,10 @@
 <mockup version="1.0" skin="sketch" measuredW="1478" measuredH="1600" mockupW="1418" mockupH="1580">
   <controls>
-    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="1418" h="850" measuredW="1418" measuredH="850" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="1418" h="850" measuredW="1418" measuredH="850" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>basepage</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="550" y="18" w="347" h="-1" measuredW="331" measuredH="28" zOrder="2" locked="false" isInGroup="0">
-          <controlProperties>
-            <bold>true</bold>
-            <color>40463</color>
-            <size>20</size>
-            <text>Abracadabra%20College%20of%20Technology</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="1246" y="52" w="159" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="0"/>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::LinkBar" x="995" y="21" w="-1" h="-1" measuredW="236" measuredH="21" zOrder="4" locked="false" isInGroup="0">
-          <controlProperties>
-            <text>Home%2C%20Help%2C%20Company%2C%20Signout%21</text>
-          </controlProperties>
-        </control>
         <control controlID="6" controlTypeID="__group__" x="0" y="0" w="1418" h="850" measuredW="1418" measuredH="850" zOrder="0" locked="false" isInGroup="0">
           <controlProperties>
             <controlName>base_page</controlName>
@@ -39,11 +25,43 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="3" w="1414" h="128" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="1" y="3" w="1414" h="128" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
           <controlProperties>
             <borderColor>16776960</borderColor>
             <borderStyle>roundedSolid</borderStyle>
             <color>16776960</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="126" w="1411" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>40463</color>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="79" y="7" w="145" h="117" measuredW="1320" measuredH="1320" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <src>./assets/logo.jpg</src>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="502" y="32" w="-1" h="-1" measuredW="413" measuredH="37" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>40463</color>
+            <size>28</size>
+            <text>Go-Green%20College%20of%20Engineering</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::LinkBar" x="1091" y="32" w="-1" h="-1" measuredW="228" measuredH="21" zOrder="5" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Home%2C%20Help%2C%20College%2C%20SignOut%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::SearchBox" x="1186" y="78" w="133" h="-1" measuredW="65" measuredH="25" zOrder="6" locked="false" isInGroup="0"/>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="625" y="69" w="-1" h="-1" measuredW="167" measuredH="22" zOrder="7" locked="false" isInGroup="0">
+          <controlProperties>
+            <bold>true</bold>
+            <color>40463</color>
+            <italic>true</italic>
+            <size>14</size>
+            <text>Use%20a%20clever%20slogan%20here%21</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -63,7 +81,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="2" controlTypeID="__group__" x="63" y="140" w="1407" h="70" measuredW="1407" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="__group__" x="63" y="140" w="1407" h="70" measuredW="1407" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>main_header</controlName>
       </controlProperties>
@@ -419,7 +437,7 @@
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="384" measuredH="33" zOrder="0" locked="false" isInGroup="14">
           <controlProperties>
             <bold>true</bold>
-            <color>13369344</color>
+            <color>40463</color>
             <italic>false</italic>
             <size>24</size>
             <text>Computer%20Science%20and%20Engineering</text>
@@ -494,6 +512,80 @@
             <borderColor>40463</borderColor>
             <borderStyle>roundedSolid</borderStyle>
             <color>16776960</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="60" y="440" w="1412" h="93" measuredW="1412" measuredH="93" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>filter_1sem</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1412" h="93" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <borderColor>40463</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>11982760</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="7" y="35" w="-1" h="-1" measuredW="91" measuredH="23" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Semester</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="118" y="34" w="-1" h="-1" measuredW="101" measuredH="23" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Department</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="238" y="33" w="-1" h="-1" measuredW="66" measuredH="23" zOrder="3" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Batch</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::ComboBox" x="326" y="33" w="-1" h="-1" measuredW="74" measuredH="23" zOrder="4" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Section</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="426" y="5" w="-1" h="-1" measuredW="76" measuredH="23" zOrder="5" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Student</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="426" y="33" w="-1" h="-1" measuredW="82" measuredH="23" zOrder="6" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Teacher</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="426" y="64" w="-1" h="-1" measuredW="74" measuredH="23" zOrder="7" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Subject</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="538" y="3" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="8" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>13369344</color>
+            <text>Group%20by</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="538" y="28" w="81" h="48" measuredW="77" measuredH="44" zOrder="9" locked="false" isInGroup="18">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>%28o%29%20Batch%0A%28%20%29%20Subject</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" controlTypeID="__group__" x="60" y="980" w="154" h="120" measuredW="154" measuredH="120" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>logo</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="154" h="120" measuredW="1320" measuredH="1320" zOrder="0" locked="false" isInGroup="19">
+          <controlProperties>
+            <src>./assets/logo.jpg</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
