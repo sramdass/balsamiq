@@ -1,11 +1,12 @@
-<mockup version="1.0" skin="sketch" measuredW="1418" measuredH="953" mockupW="1418" mockupH="940">
+<mockup version="1.0" skin="sketch" measuredW="1625" measuredH="1107" mockupW="1625" mockupH="1094">
   <controls>
-    <control controlID="94" controlTypeID="com.balsamiq.mockups::Component" x="1199" y="358" w="201" h="292" measuredW="201" measuredH="292" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Component" x="1401" y="377" w="201" h="300" measuredW="201" measuredH="300" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="0" x="0" y="0" w="201" h="300"/>
         <src>./assets/symbols.bmml#department_list</src>
       </controlProperties>
     </control>
-    <control controlID="119" controlTypeID="com.balsamiq.mockups::IconLabel" x="1173" y="262" w="-1" h="-1" measuredW="196" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::IconLabel" x="1375" y="278" w="196" h="-1" measuredW="196" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>545684</color>
@@ -15,33 +16,38 @@
         <text>Jan%2710%20-%20View%20All%20Departments</text>
       </controlProperties>
     </control>
-    <control controlID="136" controlTypeID="com.balsamiq.mockups::Component" x="199" y="817" w="712" h="22" measuredW="712" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Component" x="349" y="1023" w="712" h="22" measuredW="712" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#semester_bar</src>
       </controlProperties>
     </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Component" x="452" y="847" w="135" h="24" measuredW="135" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Component" x="602" y="1053" w="135" h="24" measuredW="135" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22634%2C1040%2C737%2C1062%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22634%2C1040%2C737%2C1062%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22634%2C1040%2C737%2C1062%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22614%2C1040%2C717%2C1062%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1040%2C637%2C1062%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22534%2C1020%2C637%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22514%2C1020%2C617%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1020%2C587%2C1042%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C1014%2C587%2C1036%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C968%2C587%2C990%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C878%2C587%2C900%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22484%2C834%2C587%2C856%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
         <src>./assets/symbols.bmml#history_link</src>
       </controlProperties>
     </control>
-    <control controlID="153" controlTypeID="com.balsamiq.mockups::Component" x="0" y="13" w="1418" h="939" measuredW="1418" measuredH="939" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::Component" x="0" y="13" w="1625" h="1094" measuredW="1625" measuredH="1094" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="2" x="550" y="20" w="347" h="28"/>
         <override controlID="3" x="1246" y="57" w="159" h="25"/>
         <override controlID="4" x="995" y="23" w="236" h="21"/>
-        <override controlID="6" x="0" y="0" w="1418" h="939"/>
-        <override controlID="7" x="2" y="3" w="1414" h="141"/>
-        <override controlID="8" x="0" y="139" w="1411" h="5"/>
-        <override controlID="6:0:0" x="0" y="0" w="1418" h="939"/>
-        <override controlID="6:0" x="0" y="0" w="1418" h="939"/>
+        <override controlID="6" x="0" y="0" w="1625" h="1094"/>
+        <override controlID="7" x="2" y="3" w="1620" h="141"/>
+        <override controlID="8" x="0" y="139" w="1619" h="5"/>
+        <override controlID="12" x="1331" y="32" w="-1" h="-1"/>
+        <override controlID="13" x="1426" y="78" w="133" h="-1"/>
+        <override controlID="14" x="625" y="69" w="-1" h="-1"/>
+        <override controlID="10" x="79" y="7" w="145" h="117"/>
+        <override controlID="11" x="502" y="32" w="-1" h="-1"/>
+        <override controlID="6:0:0" x="0" y="0" w="1625" h="1094"/>
+        <override controlID="6:0" x="0" y="0" w="1625" h="1094"/>
         <src>./assets/symbols.bmml#basepage</src>
       </controlProperties>
     </control>
-    <control controlID="156" controlTypeID="__group__" x="1199" y="302" w="163" h="45" measuredW="163" measuredH="45" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="156" controlTypeID="__group__" x="1401" y="319" w="163" h="46" measuredW="163" measuredH="46" zOrder="4" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="0" y="18" w="163" h="27" measuredW="163" measuredH="27" zOrder="0" locked="false" isInGroup="156">
+        <control controlID="0" controlTypeID="__group__" x="0" y="18" w="163" h="28" measuredW="163" measuredH="27" zOrder="0" locked="false" isInGroup="156">
           <groupChildrenDescriptors>
             <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="163" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="0">
               <controlProperties>
@@ -57,7 +63,7 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="99" measuredH="18" zOrder="1" locked="false" isInGroup="156">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="99" h="18" measuredW="99" measuredH="18" zOrder="1" locked="false" isInGroup="156">
           <controlProperties>
             <bold>false</bold>
             <color>13369344</color>
@@ -68,27 +74,38 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="166" controlTypeID="com.balsamiq.mockups::Component" x="0" y="212" w="1415" h="740" measuredW="1415" measuredH="740" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Component" x="0" y="224" w="1620" h="881" measuredW="1620" measuredH="881" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221092%2C211%2C1150%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221243%2C211%2C1314%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221314%2C211%2C1379%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221379%2C211%2C1441%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221441%2C211%2C1576%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C211%2C945%2C237%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C211%2C1109%2C237%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C211%2C1174%2C237%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C211%2C1236%2C237%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C211%2C1371%2C237%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C209%2C945%2C235%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C209%2C1109%2C235%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C209%2C1174%2C235%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C209%2C1236%2C235%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C209%2C1371%2C235%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C199%2C945%2C225%22%20href%3D%22clg_1sem.bmml%22%20alt%3D%22clg_1sem%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221038%2C199%2C1109%2C225%22%20href%3D%22tchrs_1sem.bmml%22%20alt%3D%22tchrs_1sem%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C199%2C1174%2C225%22%20href%3D%22subs_1sem.bmml%22%20alt%3D%22subs_1sem%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C199%2C1236%2C225%22%20href%3D%22bats_1sem.bmml%22%20alt%3D%22bats_1sem%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221236%2C199%2C1371%2C225%22%20href%3D%22sec_stus_1sem.bmml%22%20alt%3D%22sec_stus_1sem%22%20id%3D%220_4%22/%3E%0A</map>
+        <override controlID="0" x="0" y="0" w="1620" h="881"/>
         <src>./assets/symbols.bmml#tabs_1sem</src>
       </controlProperties>
     </control>
-    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="1177" y="299" w="241" h="654" measuredW="241" measuredH="654" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Component" x="1379" y="316" w="241" h="789" measuredW="241" measuredH="789" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="0" x="0" y="0" w="241" h="789"/>
         <src>./assets/symbols.bmml#side-bar</src>
       </controlProperties>
     </control>
-    <control controlID="170" controlTypeID="com.balsamiq.mockups::Component" x="3" y="143" w="1412" h="93" measuredW="1412" measuredH="93" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Component" x="3" y="157" w="1617" h="93" measuredW="1617" measuredH="93" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A</map>
-        <override controlID="10">
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C194%2C622%2C216%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C192%2C622%2C214%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C198%2C622%2C220%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C180%2C622%2C202%22%20href%3D%22depts_subj_wise_1sem.bmml%22%20alt%3D%22depts_subj_wise_1sem%22%20id%3D%2210_0%22/%3E%0A</map>
+        <override controlID="0" x="0" y="0" w="1617" h="93"/>
+        <override controlID="1" x="7" y="35" w="91" h="23"/>
+        <override controlID="2" x="118" y="34" w="101" h="23"/>
+        <override controlID="3" x="238" y="33" w="66" h="23"/>
+        <override controlID="4" x="326" y="33" w="74" h="23"/>
+        <override controlID="5" x="426" y="5" w="76" h="23"/>
+        <override controlID="6" x="426" y="33" w="82" h="23"/>
+        <override controlID="7" x="426" y="64" w="74" h="23"/>
+        <override controlID="9" x="538" y="3" w="59" h="21"/>
+        <override controlID="10" x="538" y="28" w="81" h="48">
           <hrefs>%2Cdepts_subj_wise_1sem%26bm%3Bdepts_subj_wise_1sem.bmml%26bm%3Bdepts_subj_wise_1sem.bmml%26bm%3Bdepts_subj_wise_1sem.bmml</hrefs>
         </override>
         <src>./assets/symbols.bmml#filter_1sem</src>
       </controlProperties>
     </control>
-    <control controlID="171" controlTypeID="com.balsamiq.mockups::Label" x="521" y="289" w="-1" h="-1" measuredW="140" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Label" x="33" y="299" w="-1" h="-1" measuredW="140" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13369344</color>
         <italic>true</italic>
@@ -96,7 +113,7 @@
         <text>Semester%20-%20Jan%202010</text>
       </controlProperties>
     </control>
-    <control controlID="172" controlTypeID="__group__" x="17" y="347" w="1100" h="387" measuredW="1100" measuredH="387" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="172" controlTypeID="__group__" x="147" y="601" w="1100" h="387" measuredW="1100" measuredH="387" zOrder="7" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="1100" h="387" measuredW="1030" measuredH="438" zOrder="0" locked="false" isInGroup="172">
           <controlProperties>
@@ -111,13 +128,720 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="173" controlTypeID="com.balsamiq.mockups::Component" x="493" y="257" w="177" h="33" measuredW="177" measuredH="33" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::Component" x="33" y="267" w="177" h="33" measuredW="177" measuredH="33" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0">
           <text>All%20Departments</text>
         </override>
         <src>./assets/symbols.bmml#inside_tab_heading</src>
       </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="__group__" x="20" y="372" w="375" h="206" measuredW="375" measuredH="206" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="36" y="0" w="339" h="206" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="175">
+          <controlProperties>
+            <borderColor>13421772</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="49" y="50" w="298" h="141" measuredW="298" measuredH="141" zOrder="1" locked="false" isInGroup="175">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="14" h="119" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>11982760</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="12" w="15" h="107" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10027263</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="2" y="124" w="-1" h="-1" measuredW="26" measuredH="17" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>CSE</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="43" y="124" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>Mech</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="43" y="18" w="14" h="101" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>11982760</color>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="58" y="27" w="15" h="92" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10027263</color>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="84" y="43" w="14" h="76" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>11982760</color>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="99" y="28" w="15" h="91" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10027263</color>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="88" y="124" w="-1" h="-1" measuredW="24" measuredH="17" zOrder="8" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>EEE</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="129" y="124" w="-1" h="-1" measuredW="26" measuredH="17" zOrder="9" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>ECE</text>
+              </controlProperties>
+            </control>
+            <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="127" y="18" w="14" h="101" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>11982760</color>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="29" w="15" h="90" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10027263</color>
+              </controlProperties>
+            </control>
+            <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="172" y="28" w="14" h="91" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>11982760</color>
+              </controlProperties>
+            </control>
+            <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="187" y="12" w="15" h="107" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10027263</color>
+              </controlProperties>
+            </control>
+            <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="170" y="124" w="-1" h="-1" measuredW="28" measuredH="17" zOrder="14" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>MCA</text>
+              </controlProperties>
+            </control>
+            <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="223" y="124" w="-1" h="-1" measuredW="17" measuredH="17" zOrder="15" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>IT</text>
+              </controlProperties>
+            </control>
+            <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="217" y="54" w="14" h="65" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>11982760</color>
+              </controlProperties>
+            </control>
+            <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="232" y="29" w="15" h="90" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10027263</color>
+              </controlProperties>
+            </control>
+            <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="264" y="28" w="14" h="91" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>11982760</color>
+              </controlProperties>
+            </control>
+            <control controlID="19" controlTypeID="com.balsamiq.mockups::Canvas" x="279" y="53" w="15" h="66" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10027263</color>
+              </controlProperties>
+            </control>
+            <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="266" y="124" w="-1" h="-1" measuredW="32" measuredH="17" zOrder="20" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>Maths</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="280" y="7" w="61" h="33" measuredW="61" measuredH="33" zOrder="2" locked="false" isInGroup="175">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="2" w="15" h="11" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10027263</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="20" w="15" h="11" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>11982760</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="19" y="0" w="-1" h="-1" measuredW="42" measuredH="17" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>Marks%25</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="19" y="16" w="-1" h="-1" measuredW="37" measuredH="17" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>Pass%25</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="0" y="18" w="38" h="155" measuredW="38" measuredH="155" zOrder="3" locked="false" isInGroup="175">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="38" measuredH="17" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>13421772</color>
+                <size>10</size>
+                <text>100%25%20-</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="10" y="138" w="-1" h="-1" measuredW="27" measuredH="17" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>13421772</color>
+                <size>10</size>
+                <text>0%25%20-</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="2" y="75" w="-1" h="-1" measuredW="33" measuredH="17" zOrder="2" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>13421772</color>
+                <size>10</size>
+                <text>50%25%20-</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="38" measuredH="17" zOrder="3" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>13421772</color>
+                <size>10</size>
+                <text>100%25%20-</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="176" controlTypeID="__group__" x="966" y="372" w="365" h="206" measuredW="365" measuredH="206" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="26" y="0" w="339" h="206" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="176">
+          <controlProperties>
+            <borderColor>13421772</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="39" y="42" w="298" h="149" measuredW="298" measuredH="149" zOrder="1" locked="false" isInGroup="176">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="19" w="14" h="108" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="26" w="15" h="101" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16776960</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="2" y="132" w="-1" h="-1" measuredW="26" measuredH="17" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>CSE</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="43" y="132" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>Mech</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="43" y="0" w="14" h="127" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="58" y="26" w="15" h="101" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16776960</color>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="84" y="51" w="14" h="76" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="99" y="36" w="15" h="91" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16776960</color>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="88" y="132" w="-1" h="-1" measuredW="24" measuredH="17" zOrder="8" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>EEE</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="129" y="132" w="-1" h="-1" measuredW="26" measuredH="17" zOrder="9" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>ECE</text>
+              </controlProperties>
+            </control>
+            <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="127" y="26" w="14" h="101" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="19" w="15" h="108" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16776960</color>
+              </controlProperties>
+            </control>
+            <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="172" y="26" w="14" h="101" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="187" y="8" w="15" h="119" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16776960</color>
+              </controlProperties>
+            </control>
+            <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="170" y="132" w="-1" h="-1" measuredW="28" measuredH="17" zOrder="14" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>MCA</text>
+              </controlProperties>
+            </control>
+            <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="223" y="132" w="-1" h="-1" measuredW="17" measuredH="17" zOrder="15" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>IT</text>
+              </controlProperties>
+            </control>
+            <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="217" y="36" w="14" h="91" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="232" y="19" w="15" h="108" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16776960</color>
+              </controlProperties>
+            </control>
+            <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="264" y="21" w="14" h="106" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="19" controlTypeID="com.balsamiq.mockups::Canvas" x="279" y="36" w="15" h="91" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16776960</color>
+              </controlProperties>
+            </control>
+            <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="266" y="132" w="-1" h="-1" measuredW="32" measuredH="17" zOrder="20" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>10</size>
+                <text>Maths</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="270" y="7" w="72" h="33" measuredW="72" measuredH="33" zOrder="2" locked="false" isInGroup="176">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="2" w="15" h="11" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="20" w="15" h="11" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16776960</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="19" y="0" w="-1" h="-1" measuredW="53" measuredH="17" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>Avg%20CGPA</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="19" y="16" w="-1" h="-1" measuredW="46" measuredH="17" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>Avg%20GPA</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="0" y="26" w="24" h="147" measuredW="24" measuredH="147" zOrder="3" locked="false" isInGroup="176">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="17" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>13421772</color>
+                <size>10</size>
+                <text>10%20-</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="5" y="130" w="-1" h="-1" measuredW="19" measuredH="17" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>13421772</color>
+                <size>10</size>
+                <text>0%20-</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="5" y="69" w="-1" h="-1" measuredW="19" measuredH="17" zOrder="2" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>13421772</color>
+                <size>10</size>
+                <text>5%20-</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="177" controlTypeID="__group__" x="402" y="332" w="530" h="246" measuredW="530" measuredH="246" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="38" y="0" w="492" h="246" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="177">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="18" w="43" h="190" measuredW="43" measuredH="190" zOrder="1" locked="false" isInGroup="177">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="21" y="175" w="22" h="15" measuredW="21" measuredH="18" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <color>13421772</color>
+                <size>11</size>
+                <text>0%20-</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="113" w="37" h="15" measuredW="33" measuredH="18" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <color>13421772</color>
+                <size>11</size>
+                <text>500%20-</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="56" w="43" h="15" measuredW="37" measuredH="18" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <color>13421772</color>
+                <size>11</size>
+                <text>1000%20-</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="43" h="15" measuredW="38" measuredH="18" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <color>13421772</color>
+                <size>11</size>
+                <text>1500%20-</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="71" y="27" w="427" h="201" measuredW="427" measuredH="201" zOrder="2" locked="false" isInGroup="177">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="13" w="16" h="165" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10898809</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="17" y="53" w="16" h="125" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="34" y="139" w="16" h="39" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>13369344</color>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="38" w="16" h="140" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10898809</color>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="82" y="85" w="16" h="93" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="100" y="118" w="16" h="60" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>13369344</color>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="129" y="72" w="16" h="105" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10898809</color>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="146" y="118" w="16" h="60" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="163" y="150" w="16" h="28" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>13369344</color>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="192" y="20" w="16" h="157" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10898809</color>
+              </controlProperties>
+            </control>
+            <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="209" y="38" w="16" h="139" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="226" y="161" w="16" h="17" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>13369344</color>
+              </controlProperties>
+            </control>
+            <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="254" y="46" w="16" h="131" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10898809</color>
+              </controlProperties>
+            </control>
+            <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="271" y="118" w="16" h="60" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+            <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="289" y="118" w="16" h="60" measuredW="100" measuredH="70" zOrder="14" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>13369344</color>
+              </controlProperties>
+            </control>
+            <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="315" y="21" w="16" h="156" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10898809</color>
+              </controlProperties>
+            </control>
+            <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="332" y="62" w="16" h="116" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+            <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="348" y="139" w="16" h="39" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>13369344</color>
+              </controlProperties>
+            </control>
+            <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="377" y="108" w="16" h="69" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10898809</color>
+              </controlProperties>
+            </control>
+            <control controlID="19" controlTypeID="com.balsamiq.mockups::Canvas" x="394" y="122" w="16" h="55" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+            <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="411" y="166" w="16" h="12" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>13369344</color>
+              </controlProperties>
+            </control>
+            <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="10" y="183" w="-1" h="-1" measuredW="28" measuredH="18" zOrder="21" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>11</size>
+                <text>CSE</text>
+              </controlProperties>
+            </control>
+            <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="71" y="183" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="22" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>Mech</text>
+              </controlProperties>
+            </control>
+            <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="141" y="183" w="-1" h="-1" measuredW="24" measuredH="17" zOrder="23" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>EEE</text>
+              </controlProperties>
+            </control>
+            <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="207" y="183" w="-1" h="-1" measuredW="26" measuredH="17" zOrder="24" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>ECE</text>
+              </controlProperties>
+            </control>
+            <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="270" y="183" w="-1" h="-1" measuredW="28" measuredH="17" zOrder="25" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>MCA</text>
+              </controlProperties>
+            </control>
+            <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="331" y="183" w="-1" h="-1" measuredW="17" measuredH="17" zOrder="26" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>IT</text>
+              </controlProperties>
+            </control>
+            <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="388" y="183" w="-1" h="-1" measuredW="32" measuredH="17" zOrder="27" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>Maths</text>
+              </controlProperties>
+            </control>
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::Canvas" x="371" y="0" w="16" h="13" measuredW="100" measuredH="70" zOrder="28" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+            <control controlID="29" controlTypeID="com.balsamiq.mockups::Canvas" x="371" y="20" w="16" h="13" measuredW="100" measuredH="70" zOrder="29" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>13369344</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="442" y="5" w="65" h="56" measuredW="65" measuredH="56" zOrder="3" locked="false" isInGroup="177">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="2" w="16" h="13" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>10898809</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="22" y="0" w="-1" h="-1" measuredW="25" measuredH="17" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <size>10</size>
+                <text>Reg</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="22" y="19" w="-1" h="-1" measuredW="43" measuredH="17" zOrder="2" locked="false" isInGroup="3">
+              <controlProperties>
+                <size>10</size>
+                <text>Cleared</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="22" y="39" w="-1" h="-1" measuredW="41" measuredH="17" zOrder="3" locked="false" isInGroup="3">
+              <controlProperties>
+                <size>10</size>
+                <text>Arrears</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
     </control>
   </controls>
 </mockup>

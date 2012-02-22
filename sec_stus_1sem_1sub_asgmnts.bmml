@@ -9,10 +9,10 @@
         <override controlID="7" x="2" y="7" w="1414" h="132"/>
         <override controlID="8" x="0" y="136" w="1411" h="5"/>
         <override controlID="10" x="79" y="8" w="145" h="131"/>
-        <override controlID="11" x="502" y="33" w="413" h="37"/>
         <override controlID="12" x="1091" y="36" w="228" h="21"/>
         <override controlID="13" x="1186" y="79" w="133" h="25"/>
         <override controlID="14" x="625" y="77" w="167" h="24"/>
+        <override controlID="11" x="502" y="33" w="413" h="37"/>
         <override controlID="6:0" x="0" y="0" w="1418" h="1020"/>
         <override controlID="6:0:0" x="0" y="0" w="1418" h="1020"/>
         <src>./assets/symbols.bmml#basepage</src>
@@ -152,6 +152,11 @@
           <text>Computer%20Architecture%20Assignments</text>
         </override>
         <src>./assets/symbols.bmml#inside_tab_heading</src>
+      </controlProperties>
+    </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Component" x="476" y="466" w="39" h="24" measuredW="39" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#sparklines_asgmts</src>
       </controlProperties>
     </control>
   </controls>
