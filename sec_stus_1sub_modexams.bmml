@@ -14,11 +14,11 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="78" w="1415" h="728" measuredW="568" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="78" w="1415" h="728" measuredW="569" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <hrefs>depts%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%2Ctchrs%26bm%3Btchrs.bmml%26bm%3Btchrs.bmml%26bm%3Btchrs.bmml%2Csubs%26bm%3Bsubs.bmml%26bm%3Bsubs.bmml%26bm%3Bsubs.bmml%2Cbats%26bm%3Bbats.bmml%26bm%3Bbats.bmml%26bm%3Bbats.bmml%2C%2Chistory%26bm%3Bhistory.bmml%26bm%3Bhistory.bmml%26bm%3Bhistory.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22897%2C74%2C990%2C100%22%20href%3D%22depts.bmml%22%20alt%3D%22depts%22%20id%3D%2257_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22990%2C74%2C1061%2C100%22%20href%3D%22tchrs.bmml%22%20alt%3D%22tchrs%22%20id%3D%2257_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221061%2C74%2C1126%2C100%22%20href%3D%22subs.bmml%22%20alt%3D%22subs%22%20id%3D%2257_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221126%2C74%2C1188%2C100%22%20href%3D%22bats.bmml%22%20alt%3D%22bats%22%20id%3D%2257_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221319%2C74%2C1371%2C100%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%2257_4%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22896%2C74%2C989%2C100%22%20href%3D%22depts.bmml%22%20alt%3D%22depts%22%20id%3D%2257_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22989%2C74%2C1060%2C100%22%20href%3D%22tchrs.bmml%22%20alt%3D%22tchrs%22%20id%3D%2257_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221060%2C74%2C1125%2C100%22%20href%3D%22subs.bmml%22%20alt%3D%22subs%22%20id%3D%2257_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221125%2C74%2C1187%2C100%22%20href%3D%22bats.bmml%22%20alt%3D%22bats%22%20id%3D%2257_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221318%2C74%2C1371%2C100%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%2257_4%22/%3E%0A</map>
         <selectedIndex>4</selectedIndex>
         <size>14</size>
         <tabHPosition>right</tabHPosition>
@@ -81,7 +81,7 @@
         <text>Section%0ASection-A%0ASection-B</text>
       </controlProperties>
     </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Component" x="1313" y="247" w="65" h="37" measuredW="65" measuredH="37" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Component" x="1313" y="247" w="73" h="37" measuredW="73" measuredH="37" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#go_button</src>
       </controlProperties>
