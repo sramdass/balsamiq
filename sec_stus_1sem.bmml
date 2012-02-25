@@ -116,14 +116,14 @@
         <override controlID="7" x="2" y="4" w="1693" h="129"/>
         <override controlID="8" x="0" y="126" w="1695" h="5"/>
         <override controlID="10" x="79" y="7" w="145" h="117"/>
+        <override controlID="11" x="502" y="32" w="-1" h="-1"/>
         <override controlID="12" x="1380" y="39" w="-1" h="-1">
           <text>Home%2C%20Help%2C%20College%2C%20SignOut%21</text>
         </override>
         <override controlID="13" x="1491" y="85" w="133" h="-1"/>
         <override controlID="14" x="625" y="69" w="-1" h="-1"/>
-        <override controlID="11" x="502" y="32" w="-1" h="-1"/>
-        <override controlID="6:0:0" x="0" y="0" w="1701" h="1086"/>
         <override controlID="6:0" x="0" y="0" w="1701" h="1086"/>
+        <override controlID="6:0:0" x="0" y="0" w="1701" h="1086"/>
         <src>./assets/symbols.bmml#basepage</src>
       </controlProperties>
     </control>
@@ -142,7 +142,7 @@
     </control>
     <control controlID="146" controlTypeID="com.balsamiq.mockups::Component" x="430" y="1031" w="135" h="24" measuredW="135" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22449%2C1031%2C552%2C1053%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22449%2C1031%2C552%2C1053%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22456%2C1031%2C559%2C1053%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22449%2C1031%2C552%2C1053%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22449%2C1031%2C552%2C1053%22%20href%3D%22history.bmml%22%20alt%3D%22history%22%20id%3D%220%22/%3E</map>
         <src>./assets/symbols.bmml#history_link</src>
       </controlProperties>
     </control>
@@ -176,7 +176,7 @@
         <src>./assets/symbols.bmml#inside_tab_heading</src>
       </controlProperties>
     </control>
-    <control controlID="149" controlTypeID="com.balsamiq.mockups::Component" x="1393" y="268" w="317" h="818" measuredW="317" measuredH="818" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Component" x="1395" y="268" w="317" h="818" measuredW="317" measuredH="818" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="317" h="818"/>
         <src>./assets/symbols.bmml#side-bar</src>
@@ -185,15 +185,15 @@
     <control controlID="150" controlTypeID="com.balsamiq.mockups::Component" x="17" y="132" w="1695" h="93" measuredW="1695" measuredH="93" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1695" h="93"/>
-        <override controlID="1" x="24" y="36" w="114" h="23"/>
         <override controlID="2" x="162" y="35" w="126" h="23"/>
+        <override controlID="3" x="313" y="34" w="82" h="23"/>
         <override controlID="4" x="423" y="34" w="92" h="23"/>
         <override controlID="5" x="548" y="6" w="95" h="23"/>
         <override controlID="6" x="548" y="34" w="102" h="23"/>
         <override controlID="7" x="548" y="65" w="92" h="23"/>
+        <override controlID="1" x="24" y="36" w="114" h="23"/>
         <override controlID="9" x="689" y="4" w="74" h="21"/>
         <override controlID="10" x="689" y="29" w="101" h="48"/>
-        <override controlID="3" x="313" y="34" w="82" h="23"/>
         <src>./assets/symbols.bmml#filter_1sem</src>
       </controlProperties>
     </control>
