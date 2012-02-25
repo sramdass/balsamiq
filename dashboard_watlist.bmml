@@ -1,54 +1,26 @@
-<mockup version="1.0" skin="sketch" measuredW="1368" measuredH="845" mockupW="1364" mockupH="842">
+<mockup version="1.0" skin="sketch" measuredW="1422" measuredH="853" mockupW="1418" mockupH="850">
   <controls>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="4" y="3" w="1364" h="842" measuredW="1364" measuredH="842" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="4" y="3" w="1418" h="850" measuredW="1418" measuredH="850" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1361" h="842"/>
-        <override controlID="1" x="3" y="3" w="1361" h="69"/>
         <override controlID="2" x="562" y="20" w="292" h="28"/>
         <override controlID="3" x="1174" y="40" w="122" h="25"/>
         <override controlID="4" x="938" y="20" w="236" h="21"/>
+        <override controlID="1" x="3" y="3" w="1361" h="69"/>
         <override controlID="0:0:0" x="0" y="0" w="1361" h="842"/>
         <override controlID="0:0" x="0" y="0" w="1361" h="842"/>
         <src>./assets/symbols.bmml#basepage</src>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="46" y="271" w="150" h="129" measuredW="150" measuredH="273" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="46" y="391" w="150" h="129" measuredW="150" measuredH="273" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>dashboard%26bm%3Bdashboard.bmml%26bm%3Bdashboard.bmml%26bm%3Bdashboard.bmml%2C%2Cdashboard_attedance%26bm%3Bdashboard_attedance.bmml%26bm%3Bdashboard_attedance.bmml%26bm%3Bdashboard_attedance.bmml%2Cdashboard_attedance%26bm%3Bdashboard_attedance.bmml%26bm%3Bdashboard_attedance.bmml%26bm%3Bdashboard_attedance.bmml%2C%2Cdashboard_lastsem%26bm%3Bdashboard_lastsem.bmml%26bm%3Bdashboard_lastsem.bmml%26bm%3Bdashboard_lastsem.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C268%2C192%2C298%22%20href%3D%22dashboard.bmml%22%20alt%3D%22dashboard%22%20id%3D%227_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C318%2C192%2C348%22%20href%3D%22dashboard_attedance.bmml%22%20alt%3D%22dashboard_attedance%22%20id%3D%227_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C268%2C42%2C268%22%20href%3D%22dashboard_attedance.bmml%22%20alt%3D%22dashboard_attedance%22%20id%3D%227_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C343%2C192%2C373%22%20href%3D%22dashboard_lastsem.bmml%22%20alt%3D%22dashboard_lastsem%22%20id%3D%227_3%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C388%2C192%2C418%22%20href%3D%22dashboard.bmml%22%20alt%3D%22dashboard%22%20id%3D%227_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C438%2C192%2C468%22%20href%3D%22dashboard_attedance.bmml%22%20alt%3D%22dashboard_attedance%22%20id%3D%227_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C388%2C42%2C388%22%20href%3D%22dashboard_attedance.bmml%22%20alt%3D%22dashboard_attedance%22%20id%3D%227_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C463%2C192%2C493%22%20href%3D%22dashboard_lastsem.bmml%22%20alt%3D%22dashboard_lastsem%22%20id%3D%227_3%22/%3E%0A</map>
         <selectedIndex>1</selectedIndex>
         <text>Home%0AWatch%20List%0AAttendance%0A-%20Teachers%0A-%20Students%0ALast%20Semester%0ASettings</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="42" y="80" w="150" h="143" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1"/>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="42" y="231" w="-1" h="-1" measuredW="145" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>18</size>
-        <text>Radha%20Krishnan%20T</text>
-      </controlProperties>
-    </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::Title" x="247" y="325" w="-1" h="-1" measuredW="85" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>left</align>
-        <bold>true</bold>
-        <size>20</size>
-        <text>Students</text>
-      </controlProperties>
-    </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::DataGrid" x="247" y="364" w="704" h="390" measuredW="540" measuredH="386" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <alternateRowColor>15134199</alternateRowColor>
-        <rowHeight>44</rowHeight>
-        <size>11</size>
-        <text>Name%20%5E%2C%20Batch%2C%20Semester%5CrNumber%2C%20Total%5CrArrears%2C%20Current%20Sem%5CrAttendance%28hrs%29%2C%20Counsellor%2C%20Details%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%7B0l%2C%200c%2C%200c%2C%200c%2C%200c%2C0l%2C0l%7D</text>
-      </controlProperties>
-    </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Component" x="1058" y="65" w="310" h="780" measuredW="310" measuredH="780" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/symbols.bmml#favourites_bar</src>
-      </controlProperties>
-    </control>
-    <control controlID="54" controlTypeID="__group__" x="247" y="159" w="397" h="129" measuredW="397" measuredH="129" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="__group__" x="247" y="239" w="397" h="129" measuredW="397" measuredH="129" zOrder="3" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="397" h="129" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="54">
           <controlProperties>
@@ -83,11 +55,66 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::Title" x="496" y="88" w="-1" h="-1" measuredW="190" measuredH="37" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Title" x="496" y="148" w="-1" h="-1" measuredW="190" measuredH="37" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
+        <color>40463</color>
         <size>28</size>
         <text>My%20Watch%20List</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="__group__" x="42" y="200" w="150" h="177" measuredW="150" measuredH="177" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="150" h="143" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="56"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="0" y="151" w="-1" h="-1" measuredW="145" measuredH="26" zOrder="1" locked="false" isInGroup="56">
+          <controlProperties>
+            <size>18</size>
+            <text>Radha%20Krishnan%20T</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="57" controlTypeID="__group__" x="247" y="405" w="704" h="429" measuredW="704" measuredH="429" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="85" measuredH="28" zOrder="0" locked="false" isInGroup="57">
+          <controlProperties>
+            <align>left</align>
+            <bold>true</bold>
+            <size>20</size>
+            <text>Students</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="39" w="704" h="390" measuredW="540" measuredH="386" zOrder="1" locked="false" isInGroup="57">
+          <controlProperties>
+            <alternateRowColor>15134199</alternateRowColor>
+            <rowHeight>44</rowHeight>
+            <size>11</size>
+            <text>Name%20%5E%2C%20Batch%2C%20Semester%5CrNumber%2C%20Total%5CrArrears%2C%20Current%20Sem%5CrAttendance%28hrs%29%2C%20Counsellor%2C%20Details%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%5BSatheesh%20Ramdass%5D%2C%202008-12%2C%208%2C%2016%2C%2057/87%2C%20Rajalakshmi%2C%20%5BCurrent%20Sem%5D%5Cr%5BPast%20Sems%5D%0A%7B0l%2C%200c%2C%200c%2C%200c%2C%200c%2C0l%2C0l%7D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Component" x="1107" y="190" w="310" h="663" measuredW="310" measuredH="663" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="310" h="663">
+          <borderColor>10066329</borderColor>
+          <borderStyle>roundedSolid</borderStyle>
+        </override>
+        <override controlID="1" x="77" y="16" w="132" h="28"/>
+        <override controlID="2" x="12" y="55" w="283" h="300"/>
+        <override controlID="2:5" x="249" y="156" w="24" h="24"/>
+        <override controlID="2:1" x="249" y="11" w="24" h="24"/>
+        <override controlID="2:3" x="249" y="84" w="24" h="24"/>
+        <override controlID="2:0" x="0" y="0" w="283" h="300">
+          <alternateRowColor>15134199</alternateRowColor>
+          <borderStyle>square</borderStyle>
+        </override>
+        <override controlID="2:4" x="249" y="118" w="24" h="24"/>
+        <override controlID="2:6" x="249" y="192" w="24" h="24"/>
+        <override controlID="2:7" x="249" y="230" w="24" h="24"/>
+        <override controlID="2:2" x="249" y="48" w="24" h="24"/>
+        <override controlID="2:8" x="249" y="267" w="24" h="24"/>
+        <src>./assets/symbols.bmml#favourites_bar</src>
       </controlProperties>
     </control>
   </controls>
