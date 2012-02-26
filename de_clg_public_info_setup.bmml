@@ -1,0 +1,94 @@
+<mockup version="1.0" skin="sketch" measuredW="808" measuredH="725" mockupW="757" mockupH="704">
+  <controls>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="51" y="21" w="757" h="704" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>College%20App%0Ahttp%3A//go-green.collegeapp.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::TabBar" x="54" y="113" w="752" h="445" measuredW="312" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <tabHPosition>right</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Basic%20Information%2C%20Public%20Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::TabBar" x="54" y="114" w="752" h="518" measuredW="312" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hrefs>de_clg_basic_info_setup%26bm%3Bde_clg_basic_info_setup.bmml%26bm%3Bde_clg_basic_info_setup.bmml%26bm%3Bde_clg_basic_info_setup.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22493%2C93%2C601%2C118%22%20href%3D%22de_clg_basic_info_setup.bmml%22%20alt%3D%22de_clg_basic_info_setup%22%20id%3D%2274_0%22/%3E%0A</map>
+        <selectedIndex>1</selectedIndex>
+        <tabHPosition>right</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Basic%20Information%2C%20Public%20Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Canvas" x="161" y="203" w="484" h="418" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Title" x="161" y="148" w="-1" h="-1" measuredW="143" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Public%20Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Title" x="209" y="430" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Info%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Title" x="209" y="581" w="-1" h="-1" measuredW="41" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Video</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::TextArea" x="352" y="433" w="218" h="73" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::TextInput" x="352" y="579" w="187" h="-1" measuredW="79" measuredH="27" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Title" x="209" y="300" w="-1" h="-1" measuredW="40" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Info%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::TextArea" x="352" y="303" w="218" h="73" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Title" x="209" y="527" w="-1" h="-1" measuredW="45" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Image</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::TextInput" x="352" y="525" w="187" h="-1" measuredW="79" measuredH="27" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Title" x="209" y="221" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Main%20Heading</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::TextInput" x="352" y="219" w="187" h="-1" measuredW="79" measuredH="27" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Title" x="209" y="271" w="-1" h="-1" measuredW="89" measuredH="22" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Info1%20Heading</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::TextInput" x="352" y="269" w="187" h="-1" measuredW="79" measuredH="27" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Title" x="209" y="401" w="-1" h="-1" measuredW="89" measuredH="22" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Info1%20Heading</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::TextInput" x="352" y="399" w="187" h="-1" measuredW="79" measuredH="27" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Button" x="160" y="652" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Button" x="502" y="652" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save%20and%20Proceed%20%3E%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
