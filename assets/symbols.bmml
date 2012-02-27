@@ -608,64 +608,131 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="18" controlTypeID="__group__" x="60" y="440" w="1412" h="93" measuredW="1412" measuredH="93" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="__group__" x="60" y="440" w="1412" h="141" measuredW="1412" measuredH="141" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>filter_1sem</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1412" h="93" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="18">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1412" h="141" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="18">
           <controlProperties>
             <borderColor>40463</borderColor>
             <borderStyle>none</borderStyle>
             <color>11982760</color>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="7" y="35" w="-1" h="-1" measuredW="91" measuredH="23" zOrder="1" locked="false" isInGroup="18">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="187" y="35" w="88" h="-1" measuredW="37" measuredH="23" zOrder="1" locked="false" isInGroup="18">
           <controlProperties>
-            <text>Semester</text>
+            <text>-</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="118" y="34" w="-1" h="-1" measuredW="101" measuredH="23" zOrder="2" locked="false" isInGroup="18">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="298" y="34" w="211" h="-1" measuredW="96" measuredH="23" zOrder="2" locked="false" isInGroup="18">
           <controlProperties>
-            <text>Department</text>
+            <text>-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="238" y="33" w="-1" h="-1" measuredW="66" measuredH="23" zOrder="3" locked="false" isInGroup="18">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="538" y="33" w="129" h="-1" measuredW="80" measuredH="23" zOrder="3" locked="false" isInGroup="18">
           <controlProperties>
-            <text>Batch</text>
+            <text>-%20%20%20%20%20%20%20%20%20%20%20</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::ComboBox" x="326" y="33" w="-1" h="-1" measuredW="74" measuredH="23" zOrder="4" locked="false" isInGroup="18">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::ComboBox" x="681" y="33" w="144" h="-1" measuredW="64" measuredH="23" zOrder="4" locked="false" isInGroup="18">
           <controlProperties>
-            <text>Section</text>
+            <text>-%20%20%20%20%20%20%20</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="426" y="5" w="-1" h="-1" measuredW="77" measuredH="23" zOrder="5" locked="false" isInGroup="18">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="894" y="3" w="171" h="-1" measuredW="68" measuredH="23" zOrder="5" locked="false" isInGroup="18">
           <controlProperties>
-            <text>Student</text>
+            <text>-%20%20%20%20%20%20%20%20</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="426" y="33" w="-1" h="-1" measuredW="82" measuredH="23" zOrder="6" locked="false" isInGroup="18">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="894" y="33" w="172" h="-1" measuredW="68" measuredH="23" zOrder="6" locked="false" isInGroup="18">
           <controlProperties>
-            <text>Teacher</text>
+            <text>-%20%20%20%20%20%20%20%20</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="426" y="64" w="-1" h="-1" measuredW="74" measuredH="23" zOrder="7" locked="false" isInGroup="18">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="894" y="64" w="175" h="-1" measuredW="76" measuredH="23" zOrder="7" locked="false" isInGroup="18">
           <controlProperties>
-            <text>Subject</text>
+            <text>-%20%20%20%20%20%20%20%20%20%20</text>
           </controlProperties>
         </control>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="538" y="3" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="8" locked="false" isInGroup="18">
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="1098" y="3" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="8" locked="false" isInGroup="18">
           <controlProperties>
             <color>13369344</color>
             <text>Group%20by</text>
           </controlProperties>
         </control>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="538" y="28" w="81" h="48" measuredW="77" measuredH="44" zOrder="9" locked="false" isInGroup="18">
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="1098" y="28" w="102" h="48" measuredW="82" measuredH="40" zOrder="9" locked="false" isInGroup="18">
+          <controlProperties>
+            <bold>false</bold>
+            <size>12</size>
+            <text>%28o%29%20category1%0A%28%20%29%20category2</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="9" y="76" w="-1" h="-1" measuredW="148" measuredH="27" zOrder="10" locked="false" isInGroup="18">
           <controlProperties>
             <bold>true</bold>
-            <size>14</size>
-            <text>%28o%29%20Batch%0A%28%20%29%20Subject</text>
+            <color>40463</color>
+            <href>de_assgn_pri_hods%26bm%3Bde_assgn_pri_hods.bmml%26bm%3Bde_assgn_pri_hods.bmml%26bm%3Bde_assgn_pri_hods.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%229%2C496%2C157%2C523%22%20href%3D%22de_assgn_pri_hods.bmml%22%20alt%3D%22de_assgn_pri_hods%22%20id%3D%2214%22/%3E</map>
+            <text>Resource%20Operations</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="10" y="37" w="147" h="27" measuredW="134" measuredH="27" zOrder="11" locked="false" isInGroup="18">
+          <controlProperties>
+            <bold>true</bold>
+            <color>40463</color>
+            <href>de_sems_new%26bm%3Bde_sems_new.bmml%26bm%3Bde_sems_new.bmml%26bm%3Bde_sems_new.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C457%2C157%2C484%22%20href%3D%22de_sems_new.bmml%22%20alt%3D%22de_sems_new%22%20id%3D%2215%22/%3E</map>
+            <text>Manage%20Resources</text>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="187" y="17" w="-1" h="-1" measuredW="56" measuredH="18" zOrder="12" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>13369344</color>
+            <size>11</size>
+            <text>Semester</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="299" y="17" w="-1" h="-1" measuredW="65" measuredH="18" zOrder="13" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>13369344</color>
+            <size>11</size>
+            <text>Department</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="539" y="17" w="-1" h="-1" measuredW="33" measuredH="18" zOrder="14" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>13369344</color>
+            <size>11</size>
+            <text>Batch</text>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="682" y="15" w="-1" h="-1" measuredW="43" measuredH="18" zOrder="15" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>13369344</color>
+            <size>11</size>
+            <text>Section</text>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="843" y="9" w="-1" h="-1" measuredW="45" measuredH="18" zOrder="16" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>13369344</color>
+            <size>11</size>
+            <text>Student</text>
+          </controlProperties>
+        </control>
+        <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="845" y="37" w="-1" h="-1" measuredW="40" measuredH="18" zOrder="17" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>13369344</color>
+            <size>11</size>
+            <text>Faculty</text>
+          </controlProperties>
+        </control>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="847" y="65" w="-1" h="-1" measuredW="44" measuredH="18" zOrder="18" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>13369344</color>
+            <size>11</size>
+            <text>Subject</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
