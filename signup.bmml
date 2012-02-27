@@ -2,7 +2,7 @@
   <controls>
     <control controlID="51" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="30" y="17" w="1357" h="566" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>College%20App%0Ahttp%3A//go-green.collegeapp.com/signup</text>
+        <text>College%20App%0Ahttp%3A//collegeapp.com/signup%3F%26token%3Ddkjfkd7989643kjwdjk0i90@%23</text>
       </controlProperties>
     </control>
     <control controlID="52" controlTypeID="com.balsamiq.mockups::Canvas" x="33" y="90" w="1350" h="466" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
@@ -13,14 +13,18 @@
     </control>
     <control controlID="53" controlTypeID="com.balsamiq.mockups::Canvas" x="981" y="153" w="377" h="335" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
     <control controlID="54" controlTypeID="com.balsamiq.mockups::Canvas" x="80" y="146" w="724" h="378" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::Title" x="89" y="161" w="216" h="-1" measuredW="207" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Title" x="89" y="161" w="233" h="-1" measuredW="218" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
+        <color>40463</color>
         <size>18</size>
         <text>Public%20College%20Information</text>
       </controlProperties>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::Title" x="989" y="175" w="-1" h="-1" measuredW="66" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Title" x="989" y="175" w="-1" h="-1" measuredW="68" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
+        <color>40463</color>
         <size>18</size>
         <text>Sign%20Up</text>
       </controlProperties>
@@ -54,6 +58,7 @@
     <control controlID="65" controlTypeID="com.balsamiq.mockups::TextInput" x="1151" y="316" w="187" h="-1" measuredW="79" measuredH="27" zOrder="12" locked="false" isInGroup="-1"/>
     <control controlID="66" controlTypeID="com.balsamiq.mockups::Button" x="1024" y="365" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>40463</color>
         <href>de_clg_basic_info_setup%26bm%3Bde_clg_basic_info_setup.bmml%26bm%3Bde_clg_basic_info_setup.bmml%26bm%3Bde_clg_basic_info_setup.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22994%2C348%2C1060%2C375%22%20href%3D%22de_clg_basic_info_setup.bmml%22%20alt%3D%22de_clg_basic_info_setup%22%20id%3D%2266%22/%3E</map>
         <menuIcon>false</menuIcon>
@@ -78,6 +83,11 @@
         <bold>true</bold>
         <size>16</size>
         <text>**********</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Tooltip" x="427" y="65" w="179" h="50" measuredW="160" measuredH="50" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20url%20will%20be%20sent%20in%20email%20for%20the%20first%20time</text>
       </controlProperties>
     </control>
   </controls>

@@ -1,6 +1,6 @@
 <mockup version="1.0" skin="sketch" measuredW="1419" measuredH="1012" mockupW="1418" mockupH="1012">
   <controls>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="46" y="431" w="150" h="185" measuredW="150" measuredH="351" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="46" y="431" w="150" h="185" measuredW="150" measuredH="351" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>dashboard%26bm%3Bdashboard.bmml%26bm%3Bdashboard.bmml%26bm%3Bdashboard.bmml%2Cdashboard_watlist%26bm%3Bdashboard_watlist.bmml%26bm%3Bdashboard_watlist.bmml%26bm%3Bdashboard_watlist.bmml%2C%2C%2C%2Cdashboard_lastsem%26bm%3Bdashboard_lastsem.bmml%26bm%3Bdashboard_lastsem.bmml%26bm%3Bdashboard_lastsem.bmml%2C</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C431%2C195%2C461%22%20href%3D%22dashboard.bmml%22%20alt%3D%22dashboard%22%20id%3D%227_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C456%2C195%2C486%22%20href%3D%22dashboard_watlist.bmml%22%20alt%3D%22dashboard_watlist%22%20id%3D%227_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C562%2C195%2C592%22%20href%3D%22dashboard_lastsem.bmml%22%20alt%3D%22dashboard_lastsem%22%20id%3D%227_2%22/%3E%0A</map>
@@ -8,21 +8,21 @@
         <text>Home%0AWatch%20List%0AAttendance%0A-%20Teachers%0A-%20Students%0ALast%20Semester%0ASettings</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="42" y="180" w="150" h="143" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="42" y="331" w="-1" h="-1" measuredW="145" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="42" y="180" w="150" h="143" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="42" y="331" w="-1" h="-1" measuredW="145" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>Radha%20Krishnan%20T</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::DataGrid" x="254" y="495" w="762" h="307" measuredW="390" measuredH="304" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::DataGrid" x="254" y="495" w="762" h="307" measuredW="390" measuredH="304" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <alternateRowColor>15134199</alternateRowColor>
         <size>11</size>
         <text>Year%20%5E%2C%20Month%2C%20Date%2C%20Day%2C%20Hours%2C%20All%20%5CrMorning%2C%20All%20%5CrAfternoon%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%203%204%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%20%201%202%203%204%2C%20%5BX%5D%2C%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%205%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%205%206%207%208%2C%20%2C%20%5BX%5D%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%201%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%203%20%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%205%206%207%208%2C%20%2C%20%5BX%5D%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%201%202%0A2011%2C%20January%2C%2011%2C%20Wednesday%2C%201%202%203%204%2C%20%5BX%5D%2C%20%0A%7B0c%2C0c%2C0c%2C0c%2C0c%2C0c%2C0c%7D</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="__group__" x="646" y="423" w="365" h="35" measuredW="365" measuredH="35" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="__group__" x="646" y="423" w="365" h="35" measuredW="365" measuredH="35" zOrder="7" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="365" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="38">
           <controlProperties>
@@ -42,14 +42,14 @@
             <text>2%20days%2C%2017%20Hours</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="13" y="4" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="3" locked="false" isInGroup="38">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="13" y="4" w="-1" h="-1" measuredW="60" measuredH="23" zOrder="3" locked="false" isInGroup="38">
           <controlProperties>
             <text>2011</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="42" controlTypeID="__group__" x="254" y="425" w="171" h="45" measuredW="171" measuredH="45" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="__group__" x="254" y="425" w="171" h="45" measuredW="171" measuredH="45" zOrder="8" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="171" measuredH="26" zOrder="0" locked="false" isInGroup="42">
           <controlProperties>
@@ -69,7 +69,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="44" controlTypeID="__group__" x="651" y="260" w="356" h="119" measuredW="356" measuredH="119" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="__group__" x="651" y="260" w="356" h="119" measuredW="356" measuredH="119" zOrder="6" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="356" h="119" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="44">
           <controlProperties>
@@ -99,7 +99,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="48" controlTypeID="__group__" x="254" y="261" w="356" h="119" measuredW="356" measuredH="119" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="__group__" x="254" y="261" w="356" h="119" measuredW="356" measuredH="119" zOrder="5" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="356" h="119" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="48">
           <controlProperties>
@@ -134,7 +134,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Title" x="497" y="168" w="-1" h="-1" measuredW="152" measuredH="37" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Title" x="497" y="168" w="-1" h="-1" measuredW="152" measuredH="37" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>40463</color>
@@ -157,26 +157,8 @@
         <src>./assets/symbols.bmml#basepage</src>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::Component" x="1107" y="230" w="310" h="780" measuredW="310" measuredH="780" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Component" x="1078" y="189" w="338" h="780" measuredW="338" measuredH="780" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="0" x="0" y="0" w="310" h="780">
-          <borderColor>10066329</borderColor>
-          <borderStyle>roundedSolid</borderStyle>
-        </override>
-        <override controlID="1" x="77" y="19" w="-1" h="-1"/>
-        <override controlID="2" x="12" y="65" w="283" h="353"/>
-        <override controlID="2:5" x="249" y="183" w="24" h="24"/>
-        <override controlID="2:1" x="249" y="13" w="24" h="24"/>
-        <override controlID="2:3" x="249" y="99" w="24" h="24"/>
-        <override controlID="2:0" x="0" y="0" w="283" h="353">
-          <alternateRowColor>15134199</alternateRowColor>
-          <borderStyle>square</borderStyle>
-        </override>
-        <override controlID="2:4" x="249" y="139" w="24" h="24"/>
-        <override controlID="2:6" x="249" y="226" w="24" h="24"/>
-        <override controlID="2:7" x="249" y="270" w="24" h="24"/>
-        <override controlID="2:2" x="249" y="57" w="24" h="24"/>
-        <override controlID="2:8" x="249" y="314" w="24" h="24"/>
         <src>./assets/symbols.bmml#favourites_bar</src>
       </controlProperties>
     </control>

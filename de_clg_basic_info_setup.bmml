@@ -24,56 +24,78 @@
         <text>Basic%20Information%2C%20Public%20Information</text>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Canvas" x="161" y="203" w="484" h="321" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Title" x="161" y="164" w="-1" h="-1" measuredW="141" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Canvas" x="161" y="178" w="484" h="365" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Title" x="161" y="152" w="156" h="-1" measuredW="150" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
+        <color>40463</color>
         <size>18</size>
         <text>Basic%20Information</text>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::TextInput" x="331" y="247" w="187" h="-1" measuredW="79" measuredH="27" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Title" x="189" y="244" w="-1" h="-1" measuredW="93" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::TextInput" x="331" y="287" w="187" h="-1" measuredW="79" measuredH="27" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Title" x="189" y="284" w="-1" h="-1" measuredW="93" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>College%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::Title" x="189" y="284" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Title" x="189" y="324" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>College%20Logo</text>
       </controlProperties>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::TextInput" x="331" y="283" w="187" h="-1" measuredW="79" measuredH="27" zOrder="8" locked="false" isInGroup="-1"/>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Title" x="189" y="326" w="-1" h="-1" measuredW="47" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::TextInput" x="331" y="323" w="187" h="-1" measuredW="79" measuredH="27" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Title" x="189" y="366" w="-1" h="-1" measuredW="47" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Slogan</text>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::TextInput" x="332" y="325" w="187" h="-1" measuredW="79" measuredH="27" zOrder="10" locked="false" isInGroup="-1"/>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::Title" x="189" y="360" w="-1" h="-1" measuredW="57" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::TextInput" x="332" y="365" w="187" h="-1" measuredW="79" measuredH="27" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Title" x="189" y="400" w="-1" h="-1" measuredW="57" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Address</text>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::Title" x="189" y="453" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Title" x="189" y="493" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>PIN</text>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::TextArea" x="332" y="363" w="218" h="73" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1"/>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::TextInput" x="332" y="451" w="187" h="-1" measuredW="79" measuredH="27" zOrder="14" locked="false" isInGroup="-1"/>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::Button" x="160" y="589" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::TextArea" x="332" y="403" w="218" h="73" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::TextInput" x="332" y="491" w="187" h="-1" measuredW="79" measuredH="27" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="496" y="589" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Save</text>
+        <bold>true</bold>
+        <color>40463</color>
+        <href>de_dashboard%26bm%3Bde_dashboard.bmml%26bm%3Bde_dashboard.bmml%26bm%3Bde_dashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22445%2C568%2C594%2C595%22%20href%3D%22de_dashboard.bmml%22%20alt%3D%22de_dashboard%22%20id%3D%2288%22/%3E</map>
+        <text>Save%20and%20Proceed%20%3E%20</text>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="502" y="589" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::TextInput" x="331" y="215" w="187" h="-1" measuredW="79" measuredH="27" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Title" x="189" y="216" w="-1" h="-1" measuredW="122" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Save%20and%20Proceed%20%3E%20</text>
+        <size>14</size>
+        <text>Sub-domain%20Name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Title" x="326" y="242" w="248" h="-1" measuredW="237" measuredH="17" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <size>10</size>
+        <text>Your%20college%20url%20will%20be%20%3Csub-domain.collegeapp.com%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Link" x="77" y="101" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>login%26bm%3Blogin.bmml%26bm%3Blogin.bmml%26bm%3Blogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C80%2C77%2C101%22%20href%3D%22login.bmml%22%20alt%3D%22login%22%20id%3D%2292%22/%3E</map>
+        <text>Sign%20out</text>
       </controlProperties>
     </control>
   </controls>

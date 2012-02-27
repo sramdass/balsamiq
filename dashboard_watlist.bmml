@@ -1,14 +1,14 @@
-<mockup version="1.0" skin="sketch" measuredW="1422" measuredH="853" mockupW="1418" mockupH="850">
+<mockup version="1.0" skin="sketch" measuredW="1422" measuredH="994" mockupW="1418" mockupH="991">
   <controls>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="4" y="3" w="1418" h="850" measuredW="1418" measuredH="850" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1361" h="842"/>
+        <override controlID="1" x="3" y="3" w="1361" h="69"/>
         <override controlID="2" x="562" y="20" w="292" h="28"/>
         <override controlID="3" x="1174" y="40" w="122" h="25"/>
         <override controlID="4" x="938" y="20" w="236" h="21"/>
-        <override controlID="1" x="3" y="3" w="1361" h="69"/>
-        <override controlID="0:0:0" x="0" y="0" w="1361" h="842"/>
         <override controlID="0:0" x="0" y="0" w="1361" h="842"/>
+        <override controlID="0:0:0" x="0" y="0" w="1361" h="842"/>
         <src>./assets/symbols.bmml#basepage</src>
       </controlProperties>
     </control>
@@ -94,26 +94,8 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::Component" x="1107" y="190" w="310" h="663" measuredW="310" measuredH="663" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Component" x="1082" y="214" w="338" h="780" measuredW="338" measuredH="780" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="0" x="0" y="0" w="310" h="663">
-          <borderColor>10066329</borderColor>
-          <borderStyle>roundedSolid</borderStyle>
-        </override>
-        <override controlID="1" x="77" y="16" w="132" h="28"/>
-        <override controlID="2" x="12" y="55" w="283" h="300"/>
-        <override controlID="2:5" x="249" y="156" w="24" h="24"/>
-        <override controlID="2:1" x="249" y="11" w="24" h="24"/>
-        <override controlID="2:3" x="249" y="84" w="24" h="24"/>
-        <override controlID="2:0" x="0" y="0" w="283" h="300">
-          <alternateRowColor>15134199</alternateRowColor>
-          <borderStyle>square</borderStyle>
-        </override>
-        <override controlID="2:4" x="249" y="118" w="24" h="24"/>
-        <override controlID="2:6" x="249" y="192" w="24" h="24"/>
-        <override controlID="2:7" x="249" y="230" w="24" h="24"/>
-        <override controlID="2:2" x="249" y="48" w="24" h="24"/>
-        <override controlID="2:8" x="249" y="267" w="24" h="24"/>
         <src>./assets/symbols.bmml#favourites_bar</src>
       </controlProperties>
     </control>

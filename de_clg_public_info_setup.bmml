@@ -25,8 +25,10 @@
       </controlProperties>
     </control>
     <control controlID="75" controlTypeID="com.balsamiq.mockups::Canvas" x="161" y="203" w="484" h="418" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Title" x="161" y="148" w="-1" h="-1" measuredW="143" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Title" x="161" y="148" w="-1" h="-1" measuredW="154" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
+        <color>40463</color>
         <size>18</size>
         <text>Public%20Information</text>
       </controlProperties>
@@ -80,13 +82,19 @@
       </controlProperties>
     </control>
     <control controlID="96" controlTypeID="com.balsamiq.mockups::TextInput" x="352" y="399" w="187" h="-1" measuredW="79" measuredH="27" zOrder="18" locked="false" isInGroup="-1"/>
-    <control controlID="98" controlTypeID="com.balsamiq.mockups::Button" x="160" y="652" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Link" x="77" y="101" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Save</text>
+        <href>login%26bm%3Blogin.bmml%26bm%3Blogin.bmml%26bm%3Blogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C80%2C77%2C101%22%20href%3D%22login.bmml%22%20alt%3D%22login%22%20id%3D%22100%22/%3E</map>
+        <text>Sign%20out</text>
       </controlProperties>
     </control>
-    <control controlID="99" controlTypeID="com.balsamiq.mockups::Button" x="502" y="652" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Button" x="494" y="647" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
+        <color>40463</color>
+        <href>de_dashboard%26bm%3Bde_dashboard.bmml%26bm%3Bde_dashboard.bmml%26bm%3Bde_dashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22443%2C626%2C592%2C653%22%20href%3D%22de_dashboard.bmml%22%20alt%3D%22de_dashboard%22%20id%3D%22101%22/%3E</map>
         <text>Save%20and%20Proceed%20%3E%20</text>
       </controlProperties>
     </control>

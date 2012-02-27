@@ -21,62 +21,62 @@
         <color>9684093</color>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Canvas" x="6" y="158" w="1414" h="120" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Canvas" x="6" y="158" w="1414" h="120" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10066329</borderColor>
         <borderStyle>none</borderStyle>
         <color>15658734</color>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="44" y="171" w="-1" h="-1" measuredW="79" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="44" y="171" w="-1" h="-1" measuredW="79" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <size>14</size>
         <text>Department</text>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::ComboBox" x="126" y="171" w="206" h="-1" measuredW="198" measuredH="94" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::ComboBox" x="126" y="171" w="206" h="-1" measuredW="198" measuredH="94" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Computer%20Science%20and%20Engg.%0ACivil%20Engg.%0AInformation%20Technology%0AMechanical%20Engineering%0AN/A</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="366" y="171" w="-1" h="-1" measuredW="44" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="366" y="171" w="-1" h="-1" measuredW="44" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <size>14</size>
         <text>Batch</text>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::ComboBox" x="408" y="171" w="84" h="-1" measuredW="77" measuredH="78" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::ComboBox" x="408" y="171" w="84" h="-1" measuredW="77" measuredH="78" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2011-15%0A2010-14%0A2009-13%0A2008-12</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="552" y="171" w="-1" h="-1" measuredW="53" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="552" y="171" w="-1" h="-1" measuredW="53" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <size>14</size>
         <text>Section</text>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::ComboBox" x="606" y="171" w="103" h="-1" measuredW="96" measuredH="48" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::ComboBox" x="606" y="171" w="103" h="-1" measuredW="96" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Section%20-%20A%0ASection%20-%20B</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="745" y="171" w="-1" h="-1" measuredW="67" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="745" y="171" w="-1" h="-1" measuredW="67" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <size>14</size>
         <text>Semester</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::ComboBox" x="819" y="171" w="85" h="-1" measuredW="84" measuredH="78" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::ComboBox" x="819" y="171" w="85" h="-1" measuredW="84" measuredH="78" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Jan%202011%0AAug%202010%0AJan%202010%0AAug%202009</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Title" x="173" y="381" w="-1" h="-1" measuredW="196" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Title" x="173" y="381" w="-1" h="-1" measuredW="196" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>40463</color>
@@ -84,7 +84,7 @@
         <text>Subjects%20and%20Teachers</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Title" x="637" y="381" w="-1" h="-1" measuredW="59" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Title" x="637" y="381" w="-1" h="-1" measuredW="59" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>40463</color>
@@ -92,7 +92,7 @@
         <text>Exams</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Title" x="1021" y="381" w="-1" h="-1" measuredW="107" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Title" x="1021" y="381" w="-1" h="-1" measuredW="107" measuredH="26" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>40463</color>
@@ -100,7 +100,7 @@
         <text>Assignments</text>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="__group__" x="34" y="428" w="406" h="568" measuredW="406" measuredH="568" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="__group__" x="34" y="428" w="406" h="568" measuredW="406" measuredH="568" zOrder="15" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="406" h="568" measuredW="258" measuredH="569" zOrder="0" locked="false" isInGroup="51">
           <controlProperties>
@@ -148,14 +148,14 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Tooltip" x="507" y="219" w="188" h="67" measuredW="179" measuredH="67" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Tooltip" x="507" y="219" w="188" h="67" measuredW="179" measuredH="67" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <size>10</size>
         <text>If%20the%20section%20is%20not%20selected%2C%20the%20same%20values%20will%20be%20assigned%20for%20both%20the%20sections%20in%20that%20batch.</text>
         <tooltipDirection>NE</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="__group__" x="958" y="428" w="232" h="268" measuredW="232" measuredH="268" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="__group__" x="958" y="428" w="232" h="268" measuredW="232" measuredH="268" zOrder="18" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="232" h="268" measuredW="232" measuredH="267" zOrder="0" locked="false" isInGroup="78">
           <controlProperties>
@@ -173,7 +173,7 @@
         <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="164" y="231" w="24" h="-1" measuredW="79" measuredH="27" zOrder="6" locked="false" isInGroup="78"/>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="79" controlTypeID="__group__" x="507" y="428" w="388" h="397" measuredW="388" measuredH="397" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="__group__" x="507" y="428" w="388" h="397" measuredW="388" measuredH="397" zOrder="17" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="388" h="397" measuredW="264" measuredH="399" zOrder="0" locked="false" isInGroup="79">
           <controlProperties>
@@ -191,28 +191,28 @@
         <control controlID="6" controlTypeID="com.balsamiq.mockups::DateChooser" x="178" y="324" w="-1" h="-1" measuredW="90" measuredH="25" zOrder="6" locked="false" isInGroup="79"/>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Title" x="587" y="292" w="-1" h="-1" measuredW="252" measuredH="37" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Title" x="587" y="292" w="-1" h="-1" measuredW="252" measuredH="37" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <size>28</size>
         <text>Jan%202011%20Semester</text>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Title" x="507" y="322" w="-1" h="-1" measuredW="412" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Title" x="507" y="322" w="-1" h="-1" measuredW="412" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13369344</color>
         <size>16</size>
         <text>Computer%20Science%20and%20Engg%2C%202011%20-%2015%20Batch%2C%20Section%20-%20A</text>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::TabBar" x="4" y="132" w="1414" h="888" measuredW="871" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::TabBar" x="4" y="132" w="1414" h="888" measuredW="623" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <hrefs>de_sems_new%26bm%3Bde_sems_new.bmml%26bm%3Bde_sems_new.bmml%26bm%3Bde_sems_new.bmml%2Cde_depts_new%26bm%3Bde_depts_new.bmml%26bm%3Bde_depts_new.bmml%26bm%3Bde_depts_new.bmml%2Cde_subs_new%26bm%3Bde_subs_new.bmml%26bm%3Bde_subs_new.bmml%26bm%3Bde_subs_new.bmml%2Cde_exams_new%26bm%3Bde_exams_new.bmml%26bm%3Bde_exams_new.bmml%26bm%3Bde_exams_new.bmml%2Cde_tchrs_new%26bm%3Bde_tchrs_new.bmml%26bm%3Bde_tchrs_new.bmml%26bm%3Bde_tchrs_new.bmml%2Cde_bats_secs_new%26bm%3Bde_bats_secs_new.bmml%26bm%3Bde_bats_secs_new.bmml%26bm%3Bde_bats_secs_new.bmml%2Cde_stus_new%26bm%3Bde_stus_new.bmml%26bm%3Bde_stus_new.bmml%26bm%3Bde_stus_new.bmml%2C%2Cde_marks_entry%26bm%3Bde_marks_entry.bmml%26bm%3Bde_marks_entry.bmml%26bm%3Bde_marks_entry.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22593%2C132%2C671%2C157%22%20href%3D%22de_sems_new.bmml%22%20alt%3D%22de_sems_new%22%20id%3D%2282_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C132%2C759%2C157%22%20href%3D%22de_depts_new.bmml%22%20alt%3D%22de_depts_new%22%20id%3D%2282_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22759%2C132%2C820%2C157%22%20href%3D%22de_subs_new.bmml%22%20alt%3D%22de_subs_new%22%20id%3D%2282_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22820%2C132%2C872%2C157%22%20href%3D%22de_exams_new.bmml%22%20alt%3D%22de_exams_new%22%20id%3D%2282_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22872%2C132%2C934%2C157%22%20href%3D%22de_tchrs_new.bmml%22%20alt%3D%22de_tchrs_new%22%20id%3D%2282_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22934%2C132%2C1070%2C157%22%20href%3D%22de_bats_secs_new.bmml%22%20alt%3D%22de_bats_secs_new%22%20id%3D%2282_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221070%2C132%2C1133%2C157%22%20href%3D%22de_stus_new.bmml%22%20alt%3D%22de_stus_new%22%20id%3D%2282_6%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221292%2C132%2C1370%2C157%22%20href%3D%22de_marks_entry.bmml%22%20alt%3D%22de_marks_entry%22%20id%3D%2282_7%22/%3E%0A</map>
-        <selectedIndex>7</selectedIndex>
+        <hrefs>de_assgn_pri_hods%26bm%3Bde_assgn_pri_hods.bmml%26bm%3Bde_assgn_pri_hods.bmml%26bm%3Bde_assgn_pri_hods.bmml%2C%2Cde_marks_entry%26bm%3Bde_marks_entry.bmml%26bm%3Bde_marks_entry.bmml%26bm%3Bde_marks_entry.bmml%2Cde_attendance%26bm%3Bde_attendance.bmml%26bm%3Bde_attendance.bmml%26bm%3Bde_attendance.bmml%2Cde_sms_email%26bm%3Bde_sms_email.bmml%26bm%3Bde_sms_email.bmml%26bm%3Bde_sms_email.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22841%2C132%2C959%2C157%22%20href%3D%22de_assgn_pri_hods.bmml%22%20alt%3D%22de_assgn_pri_hods%22%20id%3D%2282_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221118%2C132%2C1196%2C157%22%20href%3D%22de_marks_entry.bmml%22%20alt%3D%22de_marks_entry%22%20id%3D%2282_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221196%2C132%2C1274%2C157%22%20href%3D%22de_attendance.bmml%22%20alt%3D%22de_attendance%22%20id%3D%2282_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221274%2C132%2C1370%2C157%22%20href%3D%22de_sms_email.bmml%22%20alt%3D%22de_sms_email%22%20id%3D%2282_3%22/%3E%0A</map>
+        <selectedIndex>1</selectedIndex>
         <tabHPosition>right</tabHPosition>
-        <text>Semesters%2C%20Departments%2C%20Subjects%2C%20Exams%2C%20Faculties%2C%20Batches%20and%20Sections%2C%20Students%2C%20Assign%20Subject%20and%20Exams%2CMark%20Sheet</text>
+        <text>Principal%20and%20HODs%2C%20Assign%20Subject%20and%20Exams%2C%20Mark%20Sheet%2C%20Attendance%2C%20SMS%20and%20Email</text>
       </controlProperties>
     </control>
   </controls>

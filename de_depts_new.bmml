@@ -10,8 +10,8 @@
         <override controlID="12" x="1091" y="32" w="-1" h="-1"/>
         <override controlID="13" x="1186" y="78" w="133" h="-1"/>
         <override controlID="14" x="625" y="69" w="-1" h="-1"/>
-        <override controlID="6:0" x="0" y="0" w="1418" h="731"/>
         <override controlID="6:0:0" x="0" y="0" w="1418" h="731"/>
+        <override controlID="6:0" x="0" y="0" w="1418" h="731"/>
         <src>./assets/symbols.bmml#basepage</src>
       </controlProperties>
     </control>
@@ -307,14 +307,14 @@
         <text>View%20Department%20Index</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::TabBar" x="4" y="132" w="1414" h="599" measuredW="871" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::TabBar" x="4" y="132" w="1414" h="599" measuredW="633" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <hrefs>de_sems_new%26bm%3Bde_sems_new.bmml%26bm%3Bde_sems_new.bmml%26bm%3Bde_sems_new.bmml%2C%2Cde_subs_new%26bm%3Bde_subs_new.bmml%26bm%3Bde_subs_new.bmml%26bm%3Bde_subs_new.bmml%2Cde_exams_new%26bm%3Bde_exams_new.bmml%26bm%3Bde_exams_new.bmml%26bm%3Bde_exams_new.bmml%2Cde_tchrs_new%26bm%3Bde_tchrs_new.bmml%26bm%3Bde_tchrs_new.bmml%26bm%3Bde_tchrs_new.bmml%2Cde_bats_secs_new%26bm%3Bde_bats_secs_new.bmml%26bm%3Bde_bats_secs_new.bmml%26bm%3Bde_bats_secs_new.bmml%2Cde_stus_new%26bm%3Bde_stus_new.bmml%26bm%3Bde_stus_new.bmml%26bm%3Bde_stus_new.bmml%2Cde_assgn_subs_exams%26bm%3Bde_assgn_subs_exams.bmml%26bm%3Bde_assgn_subs_exams.bmml%26bm%3Bde_assgn_subs_exams.bmml%2Cde_marks_entry%26bm%3Bde_marks_entry.bmml%26bm%3Bde_marks_entry.bmml%26bm%3Bde_marks_entry.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22593%2C132%2C671%2C157%22%20href%3D%22de_sems_new.bmml%22%20alt%3D%22de_sems_new%22%20id%3D%2250_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22759%2C132%2C820%2C157%22%20href%3D%22de_subs_new.bmml%22%20alt%3D%22de_subs_new%22%20id%3D%2250_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22820%2C132%2C872%2C157%22%20href%3D%22de_exams_new.bmml%22%20alt%3D%22de_exams_new%22%20id%3D%2250_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22872%2C132%2C934%2C157%22%20href%3D%22de_tchrs_new.bmml%22%20alt%3D%22de_tchrs_new%22%20id%3D%2250_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22934%2C132%2C1070%2C157%22%20href%3D%22de_bats_secs_new.bmml%22%20alt%3D%22de_bats_secs_new%22%20id%3D%2250_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221070%2C132%2C1133%2C157%22%20href%3D%22de_stus_new.bmml%22%20alt%3D%22de_stus_new%22%20id%3D%2250_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221133%2C132%2C1292%2C157%22%20href%3D%22de_assgn_subs_exams.bmml%22%20alt%3D%22de_assgn_subs_exams%22%20id%3D%2250_6%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221292%2C132%2C1370%2C157%22%20href%3D%22de_marks_entry.bmml%22%20alt%3D%22de_marks_entry%22%20id%3D%2250_7%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22831%2C132%2C909%2C157%22%20href%3D%22de_sems_new.bmml%22%20alt%3D%22de_sems_new%22%20id%3D%2250_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22997%2C132%2C1058%2C157%22%20href%3D%22de_subs_new.bmml%22%20alt%3D%22de_subs_new%22%20id%3D%2250_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221058%2C132%2C1109%2C157%22%20href%3D%22de_exams_new.bmml%22%20alt%3D%22de_exams_new%22%20id%3D%2250_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221109%2C132%2C1171%2C157%22%20href%3D%22de_tchrs_new.bmml%22%20alt%3D%22de_tchrs_new%22%20id%3D%2250_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221171%2C132%2C1307%2C157%22%20href%3D%22de_bats_secs_new.bmml%22%20alt%3D%22de_bats_secs_new%22%20id%3D%2250_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221307%2C132%2C1370%2C157%22%20href%3D%22de_stus_new.bmml%22%20alt%3D%22de_stus_new%22%20id%3D%2250_5%22/%3E%0A</map>
         <selectedIndex>1</selectedIndex>
         <tabHPosition>right</tabHPosition>
-        <text>Semesters%2C%20Departments%2C%20Subjects%2C%20Exams%2C%20Faculties%2C%20Batches%20and%20Sections%2C%20Students%2C%20Assign%20Subject%20and%20Exams%2CMark%20Sheet</text>
+        <text>Semesters%2C%20Departments%2C%20Subjects%2C%20Exams%2C%20Faculties%2C%20Batches%20and%20Sections%2C%20Students</text>
       </controlProperties>
     </control>
   </controls>

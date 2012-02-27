@@ -1,0 +1,55 @@
+<mockup version="1.0" skin="sketch" measuredW="1233" measuredH="610" mockupW="1049" mockupH="610">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="184" y="0" w="1049" h="610" measuredW="1049" measuredH="610" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="6" x="0" y="0" w="1049" h="610"/>
+        <override controlID="7" x="1" y="3" w="1046" h="128"/>
+        <override controlID="8" x="0" y="126" w="1048" h="5"/>
+        <override controlID="10" x="39" y="7" w="145" h="117"/>
+        <override controlID="11" x="302" y="32" w="-1" h="-1"/>
+        <override controlID="12" x="811" y="32" w="-1" h="-1"/>
+        <override controlID="13" x="906" y="78" w="133" h="-1"/>
+        <override controlID="14" x="425" y="69" w="-1" h="-1"/>
+        <override controlID="6:0:0" x="0" y="0" w="1049" h="610"/>
+        <override controlID="6:0" x="0" y="0" w="1049" h="610"/>
+        <src>./assets/symbols.bmml#basepage</src>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Canvas" x="186" y="130" w="1043" h="28" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>9684093</color>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Button" x="585" y="233" w="247" h="66" measuredW="223" measuredH="34" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>40463</color>
+        <href>de_sems_new%26bm%3Bde_sems_new.bmml%26bm%3Bde_sems_new.bmml%26bm%3Bde_sems_new.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22401%2C233%2C648%2C299%22%20href%3D%22de_sems_new.bmml%22%20alt%3D%22de_sems_new%22%20id%3D%2286%22/%3E</map>
+        <size>24</size>
+        <text>Manage%20Resources</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Button" x="585" y="331" w="247" h="66" measuredW="247" measuredH="34" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>40463</color>
+        <href>de_assgn_pri_hods%26bm%3Bde_assgn_pri_hods.bmml%26bm%3Bde_assgn_pri_hods.bmml%26bm%3Bde_assgn_pri_hods.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22401%2C331%2C648%2C397%22%20href%3D%22de_assgn_pri_hods.bmml%22%20alt%3D%22de_assgn_pri_hods%22%20id%3D%2287%22/%3E</map>
+        <size>24</size>
+        <text>Resource%20Operations</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="585" y="431" w="247" h="66" measuredW="108" measuredH="34" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>40463</color>
+        <href>depts%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml%26bm%3Bdepts.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22401%2C431%2C648%2C497%22%20href%3D%22depts.bmml%22%20alt%3D%22depts%22%20id%3D%2288%22/%3E</map>
+        <size>24</size>
+        <text>Reports</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
