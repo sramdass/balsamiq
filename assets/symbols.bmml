@@ -735,6 +735,13 @@
             <text>Subject</text>
           </controlProperties>
         </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="464" y="87" w="83" h="27" measuredW="89" measuredH="27" zOrder="19" locked="false" isInGroup="18">
+          <controlProperties>
+            <bold>true</bold>
+            <color>10027008</color>
+            <text>Get%20Report</text>
+          </controlProperties>
+        </control>
       </groupChildrenDescriptors>
     </control>
     <control controlID="19" controlTypeID="__group__" x="60" y="980" w="154" h="120" measuredW="154" measuredH="120" zOrder="19" locked="false" isInGroup="-1">
